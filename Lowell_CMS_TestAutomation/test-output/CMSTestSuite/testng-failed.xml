@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CMSTestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestOn-WIN10_Chrome(failed)">
+    <parameter name="orientation" value=""/>
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="os_version" value="10"/>
+    <parameter name="browser_version" value="99.0"/>
+    <parameter name="device" value=""/>
+    <parameter name="resolution" value="1920x1080"/>
+    <classes>
+      <class name="testrunner.ExecuteTests">
+        <methods>
+          <include name="executeTests" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="closeApp"/>
+        </methods>
+      </class> <!-- testrunner.ExecuteTests -->
+    </classes>
+  </test> <!-- TestOn-WIN10_Chrome(failed) -->
+</suite> <!-- Failed suite [CMSTestSuite] -->

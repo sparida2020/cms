@@ -1,0 +1,6 @@
+Test Case,Test Case Description,Feature Name,Execute(Yes/No),Execution Status
+Smoke Test - 01,Verify CMS page headers and footers,header-footer,Yes,NO RUN
+Smoke Test - 02,Verify CMS page all available links,linkcheck,Yes,NO RUN
+Smoke Test - 03,Verify CMS page all available images,imgcheck,Yes,NO RUN
+Smoke Test - 04,Verify CMS pages and contents,mastercms,Yes,NO RUN
+Smoke Test - 05,Compare CMS page Images,compare,No,NO RUN

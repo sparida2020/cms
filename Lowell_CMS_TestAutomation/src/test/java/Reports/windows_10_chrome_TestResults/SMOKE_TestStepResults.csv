@@ -1,0 +1,236 @@
+"Test Step ID,","Test Step Description,","Keyword,","Object,","Locator,","Test Data,","ExecuteStep(Yes/No),","CaptureScreen(Yes/No),","Execution Status,"
+Smoke Test - 01 : 001,Given URL >> When Lowell Landing Page loaded >> Then Verify Page,NAVIGATE,,,,Yes,Yes,SKIP
+Smoke Test - 01 : 002,And Verify Page Header >>  Quick payment Button,GETTEXT,btn_qukpaymt,XPATH,,Yes,Yes,SKIP
+Smoke Test - 01 : 003,And Verify Page Header >>  Sign up/in Button,GETTEXT,btn_signup,XPATH,,Yes,Yes,SKIP
+Smoke Test - 01 : 004,And Verify Page >> MENU Links >> About us,LINKTEXT,,,About us,Yes,Yes,SKIP
+Smoke Test - 01 : 005,And Verify Page >> MENU Links >> Your next steps,LINKTEXT,,,Your next steps,Yes,Yes,SKIP
+Smoke Test - 01 : 006,And Verify Page >> MENU Links >> Ways to pay,LINKTEXT,,,Ways to pay,Yes,Yes,SKIP
+Smoke Test - 01 : 007,And Verify Page >> MENU Links >> Help and support,LINKTEXT,,,Help and support,Yes,Yes,SKIP
+Smoke Test - 01 : 008,And Verify Page >> MENU Links >> Contact us,LINKTEXT,,,Contact us,Yes,Yes,SKIP
+Smoke Test - 01 : 009,And Verify Page >> Footer Links >> Terms and Conditions,LINKTEXT,,,Terms and Conditions,Yes,Yes,SKIP
+Smoke Test - 01 : 010,And Verify Page >> Footer Links >> Our Privacy Promise,LINKTEXT,,,Our Privacy Promise,Yes,Yes,SKIP
+Smoke Test - 01 : 011,And Verify Page >> Footer Links >> Fraud Awareness,LINKTEXT,,,Fraud Awareness,Yes,Yes,SKIP
+Smoke Test - 01 : 012,And Verify Page >> Footer Links >> Cookie Policy,LINKTEXT,,,Cookie Policy,Yes,Yes,SKIP
+Smoke Test - 01 : 013,And Verify Page >> Footer Links >> Cookie Preferences,LINKTEXT,,,Cookie Preferences,Yes,Yes,SKIP
+Smoke Test - 01 : 014,And Verify Page >> Footer Links >> Sitemap,LINKTEXT,,,Sitemap,Yes,Yes,SKIP
+Smoke Test - 01 : 015,And Verify Page >> Footer Links >> Modern slavery,LINKTEXT,,,Modern Slavery,Yes,Yes,SKIP
+Smoke Test - 01 : 016,And Verify Page >> Footer Links >> Complaints Procedure,LINKTEXT,,,Complaints Procedure,Yes,Yes,SKIP
+Smoke Test - 01 : 017,And Verify Page >> Footer Links >> Corporate Site,LINKTEXT,,,Corporate Site,Yes,Yes,SKIP
+Smoke Test - 01 : 018,And Verify Page >> Footer Links >> Lowell Business Site,LINKTEXT,,,Lowell Business Site,Yes,Yes,SKIP
+Smoke Test - 01 : 019,And Verify Page >> Footer Copy >> CopyRights,GETCONTENT,,,"Company Registration number 4857418 and Lowell Financial Ltd, Company Registration number 4558936",Yes,Yes,SKIP
+"Test Step ID,","Test Step Description,","Keyword,","Object,","Locator,","Test Data,","ExecuteStep(Yes/No),","CaptureScreen(Yes/No),","Execution Status,"
+Smoke Test - 02 : 001,Verify About US Page >>,CHKLINKS,,,about-us/,Yes,Yes,SKIP
+Smoke Test - 02 : 002,Verify About Us >> Lowells blog >>,CHKLINKS,,,about-us/lowells-blog/,Yes,Yes,SKIP
+Smoke Test - 02 : 003,Verify About Us >> Lowell news >>,CHKLINKS,,,about-us/lowells-blog/lowell-news/,Yes,Yes,SKIP
+Smoke Test - 02 : 004,Verify About Us >> Lowell news >> Welcome to our blog,CHKLINKS,,,about-us/lowells-blog/lowell-news/welcome-to-our-blog/,Yes,Yes,SKIP
+Smoke Test - 02 : 005,Verify About Us >> Lowell news >> Coronavirus support,CHKLINKS,,,about-us/lowells-blog/lowell-news/coronavirus-support/,Yes,Yes,SKIP
+Smoke Test - 02 : 006,Verify About Us >> Lowell news >> How our new Customer Panel helps Lowell customers,CHKLINKS,,,about-us/lowells-blog/lowell-news/how-our-new-customer-panel-helps-lowell-customers/,Yes,Yes,SKIP
+Smoke Test - 02 : 007,Verify About Us >> Myth busting,CHKLINKS,,,about-us/lowells-blog/myth-busting/,Yes,Yes,SKIP
+Smoke Test - 02 : 008,Verify About Us >> Myth busting >> Budget calculator myth,CHKLINKS,,,about-us/lowells-blog/myth-busting/budget-calculator-myth/,Yes,Yes,SKIP
+Smoke Test - 02 : 009,Verify About Us >> Myth busting >> Lowell is a scam artist myth,CHKLINKS,,,about-us/lowells-blog/myth-busting/lowell-is-a-scam-artist-myth/,Yes,Yes,SKIP
+Smoke Test - 02 : 010,Verify About Us >> Myth busting >> Credit score myths,CHKLINKS,,,about-us/lowells-blog/myth-busting/credit-score-myths/,Yes,Yes,SKIP
+Smoke Test - 02 : 011,Verify About Us >> Online features,CHKLINKS,,,about-us/lowells-blog/online-features/,Yes,Yes,SKIP
+Smoke Test - 02 : 012,Verify About Us >>  Online features >> Online account features,CHKLINKS,,,about-us/lowells-blog/online-features/online-account-features/,Yes,Yes,SKIP
+Smoke Test - 02 : 013,Verify About Us >> Financial health,CHKLINKS,,,about-us/lowells-blog/financial-health/,Yes,Yes,SKIP
+Smoke Test - 02 : 014,Verify About Us >> Financial health >> Improve your credit score,CHKLINKS,,,about-us/lowells-blog/financial-health/improve-your-credit-score/,Yes,Yes,SKIP
+Smoke Test - 02 : 015,Verify About Us >> Financial health >> What Brits would rather talk about,CHKLINKS,,,about-us/lowells-blog/financial-health/what-brits-would-rather-talk-about/,Yes,Yes,SKIP
+Smoke Test - 02 : 016,Verify About Us >> Financial health >> Struggling to afford January 2021,CHKLINKS,,,about-us/lowells-blog/financial-health/struggling-to-afford-january-2021/,Yes,Yes,SKIP
+Smoke Test - 02 : 017,Verify About Us >> Financial health >> Hidden Debt ? why we don?t talk about our debt problems,CHKLINKS,,,about-us/lowells-blog/financial-health/hidden-debt-why-we-don-t-talk-about-our-debt-problems/,Yes,Yes,SKIP
+Smoke Test - 02 : 018,Verify About Us >> Financial health >> The financial tips we wish we'd learnt as a child,CHKLINKS,,,about-us/lowells-blog/financial-health/the-financial-tips-we-wish-we-d-learnt-as-a-child/,Yes,Yes,SKIP
+Smoke Test - 02 : 019,Verify About Us >> Financial health >> Does the UK Have a Financial Confidence Problem?,CHKLINKS,,,about-us/lowells-blog/financial-health/does-the-uk-have-a-financial-confidence-problem/,Yes,Yes,SKIP
+Smoke Test - 02 : 020,Verify About Us >> Financial health >> How many Brits fall victim to card fraud?,CHKLINKS,,,about-us/lowells-blog/financial-health/how-many-brits-fall-victim-to-card-fraud/,Yes,Yes,SKIP
+Smoke Test - 02 : 021,Verify About Us >> Lifestyle >>,CHKLINKS,,,about-us/lowells-blog/lifestyle/,Yes,Yes,SKIP
+Smoke Test - 02 : 022,Verify About Us >> Lifestyle >> Christmas pressure,CHKLINKS,,,about-us/lowells-blog/lifestyle/christmas-pressure/,Yes,Yes,SKIP
+Smoke Test - 02 : 023,Verify About Us >> Saving and budgeting,CHKLINKS,,,about-us/lowells-blog/saving-and-budgeting/,Yes,Yes,SKIP
+Smoke Test - 02 : 024,Verify About Us >> Saving and budgeting >> Calculations for 2021 budget,CHKLINKS,,,about-us/lowells-blog/saving-and-budgeting/calculations-for-2021-budget/,Yes,Yes,SKIP
+Smoke Test - 02 : 025,Verify About Us >> Saving and budgeting >> How to create a budget and manage your money,CHKLINKS,,,about-us/lowells-blog/saving-and-budgeting/how-to-create-a-budget-and-manage-your-money/,Yes,Yes,SKIP
+Smoke Test - 02 : 026,Verify About Us >> Wellbeing >>,CHKLINKS,,,about-us/lowells-blog/wellbeing/,Yes,Yes,SKIP
+Smoke Test - 02 : 027,Verify About Us >> Wellbeing >> Blue Monday,CHKLINKS,,,about-us/lowells-blog/wellbeing/blue-monday/,Yes,Yes,SKIP
+Smoke Test - 02 : 028,Verify About Us >> Wellbeing >> Time to talk,CHKLINKS,,,about-us/lowells-blog/wellbeing/time-to-talk/,Yes,Yes,SKIP
+Smoke Test - 02 : 029,Verify About Us >> Wellbeing >> Covid-19 and debt,CHKLINKS,,,about-us/lowells-blog/wellbeing/covid-19-and-debt/,Yes,Yes,SKIP
+Smoke Test - 02 : 030,Verify About Us >> Wellbeing >> International Day of Happiness: See what our customers have to say,CHKLINKS,,,about-us/lowells-blog/wellbeing/international-day-of-happiness-see-what-our-customers-have-to-say/,Yes,Yes,SKIP
+Smoke Test - 02 : 031,Verify About Us >> Wellbeing >> How do we support our customers' mental health,CHKLINKS,,,about-us/lowells-blog/wellbeing/how-do-we-support-our-customers-mental-health/,Yes,Yes,SKIP
+Smoke Test - 02 : 032,Verify Your next steps >>,CHKLINKS,,,your-next-steps/,Yes,Yes,SKIP
+Smoke Test - 02 : 033,Verify Your next steps >> Paying debt,CHKLINKS,,,your-next-steps/#paying-debt/,Yes,Yes,SKIP
+Smoke Test - 02 : 034,Verify Your next steps >> Not Paying,CHKLINKS,,,your-next-steps/#not-paying/,Yes,Yes,SKIP
+Smoke Test - 02 : 035,Verify Your next steps >> Can't pay,CHKLINKS,,,your-next-steps/#can-t-pay/,Yes,Yes,SKIP
+Smoke Test - 02 : 036,Verify Your next steps >> Change in circumstances,CHKLINKS,,,your-next-steps/#change-in-circumstances/,Yes,Yes,SKIP
+Smoke Test - 02 : 037,Verify Your next steps >> Disputing debt,CHKLINKS,,,your-next-steps/#disputing-debt/,Yes,Yes,SKIP
+Smoke Test - 02 : 038,Verify Your next steps >> Online account,CHKLINKS,,,your-next-steps/online-account/,Yes,Yes,SKIP
+Smoke Test - 02 : 039,Verify Ways to pay >>,CHKLINKS,,,ways-to-pay/,Yes,Yes,SKIP
+Smoke Test - 02 : 040,Verify Ways to pay >> Payment options,CHKLINKS,,,ways-to-pay/payment-options/,Yes,Yes,SKIP
+Smoke Test - 02 : 041,Verify Ways to pay >> Direct debit guarantee,CHKLINKS,,,ways-to-pay/payment-options/direct-debit-guarantee/,Yes,Yes,SKIP
+Smoke Test - 02 : 042,Verify Help and support >>,CHKLINKS,,,help-and-support/,Yes,Yes,SKIP
+Smoke Test - 02 : 043,Verify Help and support >> FAQs >>,CHKLINKS,,,help-and-support/faqs/,Yes,Yes,SKIP
+Smoke Test - 02 : 044,Verify Help and support >> FAQs >> FAQS - About Lowell,CHKLINKS,,,help-and-support/faqs/about-lowell/,Yes,Yes,SKIP
+Smoke Test - 02 : 045,Verify Help and support >> FAQs >> FAQS - Data Privacy,CHKLINKS,,,help-and-support/faqs/data-privacy/,Yes,Yes,SKIP
+Smoke Test - 02 : 046,Verify Help and support >> FAQs >> FAQS - Complaints,CHKLINKS,,,help-and-support/faqs/complaints/,Yes,Yes,SKIP
+Smoke Test - 02 : 047,Verify Help and support >> FAQs >> FAQS - Legal Process,CHKLINKS,,,help-and-support/faqs/legal-process/,Yes,Yes,SKIP
+Smoke Test - 02 : 048,Verify Help and support >> FAQs >> FAQS - Accounts,CHKLINKS,,,help-and-support/faqs/accounts/,Yes,Yes,SKIP
+Smoke Test - 02 : 049,Verify Help and support >> FAQs >> FAQS - Payments,CHKLINKS,,,help-and-support/faqs/payments/,Yes,Yes,SKIP
+Smoke Test - 02 : 050,Verify Help and support >> FAQs >> FAQS - Credit File,CHKLINKS,,,help-and-support/faqs/credit-file/,Yes,Yes,SKIP
+Smoke Test - 02 : 051,Verify Help and support >> FAQs >> FAQS - Contacting Lowell,CHKLINKS,,,help-and-support/faqs/contacting-lowell/,Yes,Yes,SKIP
+Smoke Test - 02 : 052,Verify Help and support >> FAQs >> FAQS - Credit agreements and documents,CHKLINKS,,,help-and-support/faqs/credit-agreements-and-documents/,Yes,Yes,SKIP
+Smoke Test - 02 : 053,Verify Help and support >> FAQs >> FAQS - Mobile App,CHKLINKS,,,help-and-support/faqs/mobile-app/,Yes,Yes,SKIP
+Smoke Test - 02 : 054,Verify Help and support >> FAQs >> FAQS - Snoop,CHKLINKS,,,help-and-support/faqs/snoop/,Yes,Yes,SKIP
+Smoke Test - 02 : 055,Verify Help and support >> Independent support >>,CHKLINKS,,,help-and-support/independent-support/,Yes,Yes,SKIP
+Smoke Test - 02 : 056,Verify Help and support >> Independent support >> Independent support - Other support and advice,CHKLINKS,,,help-and-support/independent-support/other-support-and-advice/,Yes,Yes,SKIP
+Smoke Test - 02 : 057,Verify Help and support >> Budget calculator >>,CHKLINKS,,,help-and-support/budget-calculator/,Yes,Yes,SKIP
+Smoke Test - 02 : 058,Verify Help and support >> Budget calculator >> Budget calculator - Open Banking,CHKLINKS,,,,Yes,Yes,SKIP
+Smoke Test - 02 : 059,Verify Help and support >> Coronavirus help >>,CHKLINKS,,,help-and-support/coronavirus-help/,Yes,Yes,SKIP
+Smoke Test - 02 : 060,Verify Help and support >> Debt guidance >>,CHKLINKS,,,help-and-support/debt-guidance/,Yes,Yes,SKIP
+Smoke Test - 02 : 061,Verify Help and support >> Debt guidance >> Debt collection process,CHKLINKS,,,help-and-support/debt-guidance/debt-collection-process/,Yes,Yes,SKIP
+Smoke Test - 02 : 062,Verify Help and support >> Debt guidance >> Credit file guide,CHKLINKS,,,help-and-support/debt-guidance/credit-file-guide/,Yes,Yes,SKIP
+Smoke Test - 02 : 063,Verify Help and support >> Debt guidance >> Default guide,CHKLINKS,,,help-and-support/debt-guidance/default-guide/,Yes,Yes,SKIP
+Smoke Test - 02 : 064,Verify Help and support >> Debt guidance >> Debt support guide,CHKLINKS,,,help-and-support/debt-guidance/debt-support-guide/,Yes,Yes,SKIP
+Smoke Test - 02 : 065,Verify Help and support >> Debt guidance >> How to deal with bailiffs,CHKLINKS,,,help-and-support/debt-guidance/how-to-deal-with-bailiffs/,Yes,Yes,SKIP
+Smoke Test - 02 : 066,Verify Help and support >> Debt guidance >> How does a discount work with debt,CHKLINKS,,,help-and-support/debt-guidance/how-does-a-discount-work-with-debt/,Yes,Yes,SKIP
+Smoke Test - 02 : 067,Verify Help and support >> Debt guidance >> What is a Debt Management Plan,CHKLINKS,,,help-and-support/debt-guidance/what-is-a-debt-management-plan/,Yes,Yes,SKIP
+Smoke Test - 02 : 068,Verify Help and support >> Debt guidance >> What is a CCJ and how does it impact me,CHKLINKS,,,help-and-support/debt-guidance/what-is-a-ccj-and-how-does-it-impact-me/,Yes,Yes,SKIP
+Smoke Test - 02 : 069,Verify Help and support >> Debt guidance >> How to recognise if a debts yours,CHKLINKS,,,help-and-support/debt-guidance/how-to-recognise-if-a-debts-yours/,Yes,Yes,SKIP
+Smoke Test - 02 : 070,Verify Contact us >>,CHKLINKS,,,contact-us/,Yes,Yes,SKIP
+Smoke Test - 02 : 071,Verify Terms and conditions >>,CHKLINKS,,,terms-and-conditions/,Yes,Yes,SKIP
+Smoke Test - 02 : 072,Verify Our privacy promise >>,CHKLINKS,,,our-privacy-promise/,Yes,Yes,SKIP
+Smoke Test - 02 : 073,Verify Our privacy promise >> Customer privacy notice,CHKLINKS,,,our-privacy-promise/customer-privacy-notice/,Yes,Yes,SKIP
+Smoke Test - 02 : 074,Verify Our privacy promise >> Website user notice,CHKLINKS,,,our-privacy-promise/website-user-notice/,Yes,Yes,SKIP
+Smoke Test - 02 : 075,Verify Our privacy promise >> Security measures,CHKLINKS,,,our-privacy-promise/security-measures/,Yes,Yes,SKIP
+Smoke Test - 02 : 076,Verify Our privacy promise >> App privacy notice,CHKLINKS,,,our-privacy-promise/app-privacy-notice/,Yes,Yes,SKIP
+Smoke Test - 02 : 077,Verify Our privacy promise >> Credit score privacy notice,CHKLINKS,,,,Yes,Yes,SKIP
+Smoke Test - 02 : 078,Verify Befraudaware >>,CHKLINKS,,,befraudaware/,Yes,Yes,SKIP
+Smoke Test - 02 : 079,Verify Cookie policy >>,CHKLINKS,,,cookie-policy/,Yes,Yes,SKIP
+Smoke Test - 02 : 080,Verify Complaints procedure >>,CHKLINKS,,,complaints-procedure/,Yes,Yes,SKIP
+Smoke Test - 02 : 081,Verify Modern slavery >>,CHKLINKS,,,modern-slavery/,Yes,Yes,SKIP
+Smoke Test - 02 : 082,Verify Prize draw tandcs >>,CHKLINKS,,,prize-draw-tandcs/,Yes,Yes,SKIP
+Smoke Test - 02 : 083,Verify HTML Sitemap >>,CHKLINKS,,,html-sitemap/,Yes,Yes,SKIP
+Smoke Test - 02 : 084,Verify Mobile app >>,CHKLINKS,,,mobile-app/,Yes,Yes,SKIP
+Smoke Test - 02 : 085,Verify Snoop >>,CHKLINKS,,,snoop/,Yes,Yes,SKIP
+Smoke Test - 02 : 086,Verify 404 >>,CHKLINKS,,,404/,Yes,Yes,SKIP
+Smoke Test - 02 : 087,Verify 500 >>,CHKLINKS,,,500/,Yes,Yes,SKIP
+Smoke Test - 02 : 088,Verify Maintenance >>,CHKLINKS,,,maintenance/,Yes,Yes,SKIP
+Smoke Test - 02 : 089,Verify Sitemap >>,CHKLINKS,,,sitemap/,No,No,SKIP
+Smoke Test - 02 : 090,Verify Continuous Payment Authority >>,CHKLINKS,,,continuous-payment-authority/,Yes,Yes,SKIP
+Smoke Test - 02 : 091,Verify Credit Score >>,CHKLINKS,,,credit-score/,Yes,Yes,SKIP
+Smoke Test - 02 : 092,Verify Discounts >>,CHKLINKS,,,discounts/,Yes,Yes,SKIP
+"Test Step ID,","Test Step Description,","Keyword,","Object,","Locator,","Test Data,","ExecuteStep(Yes/No),","CaptureScreen(Yes/No),","Execution Status,"
+Smoke Test - 03 : 001,Verify About US Page >>,CHKIMGS,,,about-us/,Yes,Yes,SKIP
+Smoke Test - 03 : 002,Verify About Us >> Lowells blog >>,CHKIMGS,,,about-us/lowells-blog/,Yes,Yes,SKIP
+Smoke Test - 03 : 003,Verify About Us >> Lowell news >>,CHKIMGS,,,about-us/lowells-blog/lowell-news/,Yes,Yes,SKIP
+Smoke Test - 03 : 004,Verify About Us >> Lowell news >> Welcome to our blog,CHKIMGS,,,about-us/lowells-blog/lowell-news/welcome-to-our-blog/,Yes,Yes,SKIP
+Smoke Test - 03 : 005,Verify About Us >> Lowell news >> Coronavirus support,CHKIMGS,,,about-us/lowells-blog/lowell-news/coronavirus-support/,Yes,Yes,SKIP
+Smoke Test - 03 : 006,Verify About Us >> Lowell news >> How our new Customer Panel helps Lowell customers,CHKIMGS,,,about-us/lowells-blog/lowell-news/how-our-new-customer-panel-helps-lowell-customers/,Yes,Yes,SKIP
+Smoke Test - 03 : 007,Verify About Us >> Myth busting,CHKIMGS,,,about-us/lowells-blog/myth-busting/,Yes,Yes,SKIP
+Smoke Test - 03 : 008,Verify About Us >> Myth busting >> Budget calculator myth,CHKIMGS,,,about-us/lowells-blog/myth-busting/budget-calculator-myth/,Yes,Yes,SKIP
+Smoke Test - 03 : 009,Verify About Us >> Myth busting >> Lowell is a scam artist myth,CHKIMGS,,,about-us/lowells-blog/myth-busting/lowell-is-a-scam-artist-myth/,Yes,Yes,SKIP
+Smoke Test - 03 : 010,Verify About Us >> Myth busting >> Credit score myths,CHKIMGS,,,about-us/lowells-blog/myth-busting/credit-score-myths/,Yes,Yes,SKIP
+Smoke Test - 03 : 011,Verify About Us >> Online features,CHKIMGS,,,about-us/lowells-blog/online-features/,Yes,Yes,SKIP
+Smoke Test - 03 : 012,Verify About Us >>  Online features >> Online account features,CHKIMGS,,,about-us/lowells-blog/online-features/online-account-features/,Yes,Yes,SKIP
+Smoke Test - 03 : 013,Verify About Us >> Financial health,CHKIMGS,,,about-us/lowells-blog/financial-health/,Yes,Yes,SKIP
+Smoke Test - 03 : 014,Verify About Us >> Financial health >> Improve your credit score,CHKIMGS,,,about-us/lowells-blog/financial-health/improve-your-credit-score/,Yes,Yes,SKIP
+Smoke Test - 03 : 015,Verify About Us >> Financial health >> What Brits would rather talk about,CHKIMGS,,,about-us/lowells-blog/financial-health/what-brits-would-rather-talk-about/,Yes,Yes,SKIP
+Smoke Test - 03 : 016,Verify About Us >> Financial health >> Struggling to afford January 2021,CHKIMGS,,,about-us/lowells-blog/financial-health/struggling-to-afford-january-2021/,Yes,Yes,SKIP
+Smoke Test - 03 : 017,Verify About Us >> Financial health >> Hidden Debt ? why we don?t talk about our debt problems,CHKIMGS,,,about-us/lowells-blog/financial-health/hidden-debt-why-we-don-t-talk-about-our-debt-problems/,Yes,Yes,SKIP
+Smoke Test - 03 : 018,Verify About Us >> Financial health >> The financial tips we wish we'd learnt as a child,CHKIMGS,,,about-us/lowells-blog/financial-health/the-financial-tips-we-wish-we-d-learnt-as-a-child/,Yes,Yes,SKIP
+Smoke Test - 03 : 019,Verify About Us >> Financial health >> Does the UK Have a Financial Confidence Problem?,CHKIMGS,,,about-us/lowells-blog/financial-health/does-the-uk-have-a-financial-confidence-problem/,Yes,Yes,SKIP
+Smoke Test - 03 : 020,Verify About Us >> Financial health >> How many Brits fall victim to card fraud?,CHKIMGS,,,about-us/lowells-blog/financial-health/how-many-brits-fall-victim-to-card-fraud/,Yes,Yes,SKIP
+Smoke Test - 03 : 021,Verify About Us >> Lifestyle >>,CHKIMGS,,,about-us/lowells-blog/lifestyle/,Yes,Yes,SKIP
+Smoke Test - 03 : 022,Verify About Us >> Lifestyle >> Christmas pressure,CHKIMGS,,,about-us/lowells-blog/lifestyle/christmas-pressure/,Yes,Yes,SKIP
+Smoke Test - 03 : 023,Verify About Us >> Saving and budgeting,CHKIMGS,,,about-us/lowells-blog/saving-and-budgeting/,Yes,Yes,SKIP
+Smoke Test - 03 : 024,Verify About Us >> Saving and budgeting >> Calculations for 2021 budget,CHKIMGS,,,about-us/lowells-blog/saving-and-budgeting/calculations-for-2021-budget/,Yes,Yes,SKIP
+Smoke Test - 03 : 025,Verify About Us >> Saving and budgeting >> How to create a budget and manage your money,CHKIMGS,,,about-us/lowells-blog/saving-and-budgeting/how-to-create-a-budget-and-manage-your-money/,Yes,Yes,SKIP
+Smoke Test - 03 : 026,Verify About Us >> Wellbeing >>,CHKIMGS,,,about-us/lowells-blog/wellbeing/,Yes,Yes,SKIP
+Smoke Test - 03 : 027,Verify About Us >> Wellbeing >> Blue Monday,CHKIMGS,,,about-us/lowells-blog/wellbeing/blue-monday/,Yes,Yes,SKIP
+Smoke Test - 03 : 028,Verify About Us >> Wellbeing >> Time to talk,CHKIMGS,,,about-us/lowells-blog/wellbeing/time-to-talk/,Yes,Yes,SKIP
+Smoke Test - 03 : 029,Verify About Us >> Wellbeing >> Covid-19 and debt,CHKIMGS,,,about-us/lowells-blog/wellbeing/covid-19-and-debt/,Yes,Yes,SKIP
+Smoke Test - 03 : 030,Verify About Us >> Wellbeing >> International Day of Happiness: See what our customers have to say,CHKIMGS,,,about-us/lowells-blog/wellbeing/international-day-of-happiness-see-what-our-customers-have-to-say/,Yes,Yes,SKIP
+Smoke Test - 03 : 031,Verify About Us >> Wellbeing >> How do we support our customers' mental health,CHKIMGS,,,about-us/lowells-blog/wellbeing/how-do-we-support-our-customers-mental-health/,Yes,Yes,SKIP
+Smoke Test - 03 : 032,Verify Your next steps >>,CHKIMGS,,,your-next-steps/,Yes,Yes,SKIP
+Smoke Test - 03 : 033,Verify Your next steps >> Paying debt,CHKIMGS,,,your-next-steps/#paying-debt/,Yes,Yes,SKIP
+Smoke Test - 03 : 034,Verify Your next steps >> Not Paying,CHKIMGS,,,your-next-steps/#not-paying/,Yes,Yes,SKIP
+Smoke Test - 03 : 035,Verify Your next steps >> Can't pay,CHKIMGS,,,your-next-steps/#can-t-pay/,Yes,Yes,SKIP
+Smoke Test - 03 : 036,Verify Your next steps >> Change in circumstances,CHKIMGS,,,your-next-steps/#change-in-circumstances/,Yes,Yes,SKIP
+Smoke Test - 03 : 037,Verify Your next steps >> Disputing debt,CHKIMGS,,,your-next-steps/#disputing-debt/,Yes,Yes,SKIP
+Smoke Test - 03 : 038,Verify Your next steps >> Online account,CHKIMGS,,,your-next-steps/online-account/,Yes,Yes,SKIP
+Smoke Test - 03 : 039,Verify Ways to pay >>,CHKIMGS,,,ways-to-pay/,Yes,Yes,SKIP
+Smoke Test - 03 : 040,Verify Ways to pay >> Payment options,CHKIMGS,,,ways-to-pay/payment-options/,Yes,Yes,SKIP
+Smoke Test - 03 : 041,Verify Ways to pay >> Direct debit guarantee,CHKIMGS,,,ways-to-pay/payment-options/direct-debit-guarantee/,Yes,Yes,SKIP
+Smoke Test - 03 : 042,Verify Help and support >>,CHKIMGS,,,help-and-support/,Yes,Yes,SKIP
+Smoke Test - 03 : 043,Verify Help and support >> FAQs >>,CHKIMGS,,,help-and-support/faqs/,Yes,Yes,SKIP
+Smoke Test - 03 : 044,Verify Help and support >> FAQs >> FAQS - About Lowell,CHKIMGS,,,help-and-support/faqs/about-lowell/,Yes,Yes,SKIP
+Smoke Test - 03 : 045,Verify Help and support >> FAQs >> FAQS - Data Privacy,CHKIMGS,,,help-and-support/faqs/data-privacy/,Yes,Yes,SKIP
+Smoke Test - 03 : 046,Verify Help and support >> FAQs >> FAQS - Complaints,CHKIMGS,,,help-and-support/faqs/complaints/,Yes,Yes,SKIP
+Smoke Test - 03 : 047,Verify Help and support >> FAQs >> FAQS - Legal Process,CHKIMGS,,,help-and-support/faqs/legal-process/,Yes,Yes,SKIP
+Smoke Test - 03 : 048,Verify Help and support >> FAQs >> FAQS - Accounts,CHKIMGS,,,help-and-support/faqs/accounts/,Yes,Yes,SKIP
+Smoke Test - 03 : 049,Verify Help and support >> FAQs >> FAQS - Payments,CHKIMGS,,,help-and-support/faqs/payments/,Yes,Yes,SKIP
+Smoke Test - 03 : 050,Verify Help and support >> FAQs >> FAQS - Credit File,CHKIMGS,,,help-and-support/faqs/credit-file/,Yes,Yes,SKIP
+Smoke Test - 03 : 051,Verify Help and support >> FAQs >> FAQS - Contacting Lowell,CHKIMGS,,,help-and-support/faqs/contacting-lowell/,Yes,Yes,SKIP
+Smoke Test - 03 : 052,Verify Help and support >> FAQs >> FAQS - Credit agreements and documents,CHKIMGS,,,help-and-support/faqs/credit-agreements-and-documents/,Yes,Yes,SKIP
+Smoke Test - 03 : 053,Verify Help and support >> FAQs >> FAQS - Mobile App,CHKIMGS,,,help-and-support/faqs/mobile-app/,Yes,Yes,SKIP
+Smoke Test - 03 : 054,Verify Help and support >> FAQs >> FAQS - Snoop,CHKIMGS,,,help-and-support/faqs/snoop/,Yes,Yes,SKIP
+Smoke Test - 03 : 055,Verify Help and support >> Independent support >>,CHKIMGS,,,help-and-support/independent-support/,Yes,Yes,SKIP
+Smoke Test - 03 : 056,Verify Help and support >> Independent support >> Independent support - Other support and advice,CHKIMGS,,,help-and-support/independent-support/other-support-and-advice/,Yes,Yes,SKIP
+Smoke Test - 03 : 057,Verify Help and support >> Budget calculator >>,CHKIMGS,,,help-and-support/budget-calculator/,Yes,Yes,SKIP
+Smoke Test - 03 : 058,Verify Help and support >> Budget calculator >> Budget calculator - Open Banking,CHKIMGS,,,,No,No,SKIP
+Smoke Test - 03 : 059,Verify Help and support >> Coronavirus help >>,CHKIMGS,,,help-and-support/coronavirus-help/,Yes,Yes,SKIP
+Smoke Test - 03 : 060,Verify Help and support >> Debt guidance >>,CHKIMGS,,,help-and-support/debt-guidance/,Yes,Yes,SKIP
+Smoke Test - 03 : 061,Verify Help and support >> Debt guidance >> Debt collection process,CHKIMGS,,,help-and-support/debt-guidance/debt-collection-process/,Yes,Yes,SKIP
+Smoke Test - 03 : 062,Verify Help and support >> Debt guidance >> Credit file guide,CHKIMGS,,,help-and-support/debt-guidance/credit-file-guide/,Yes,Yes,SKIP
+Smoke Test - 03 : 063,Verify Help and support >> Debt guidance >> Default guide,CHKIMGS,,,help-and-support/debt-guidance/default-guide/,Yes,Yes,SKIP
+Smoke Test - 03 : 064,Verify Help and support >> Debt guidance >> Debt support guide,CHKIMGS,,,help-and-support/debt-guidance/debt-support-guide/,Yes,Yes,SKIP
+Smoke Test - 03 : 065,Verify Help and support >> Debt guidance >> How to deal with bailiffs,CHKIMGS,,,help-and-support/debt-guidance/how-to-deal-with-bailiffs/,Yes,Yes,SKIP
+Smoke Test - 03 : 066,Verify Help and support >> Debt guidance >> How does a discount work with debt,CHKIMGS,,,help-and-support/debt-guidance/how-does-a-discount-work-with-debt/,Yes,Yes,SKIP
+Smoke Test - 03 : 067,Verify Help and support >> Debt guidance >> What is a Debt Management Plan,CHKIMGS,,,help-and-support/debt-guidance/what-is-a-debt-management-plan/,Yes,Yes,SKIP
+Smoke Test - 03 : 068,Verify Help and support >> Debt guidance >> What is a CCJ and how does it impact me,CHKIMGS,,,help-and-support/debt-guidance/what-is-a-ccj-and-how-does-it-impact-me/,Yes,Yes,SKIP
+Smoke Test - 03 : 069,Verify Help and support >> Debt guidance >> How to recognise if a debts yours,CHKIMGS,,,help-and-support/debt-guidance/how-to-recognise-if-a-debts-yours/,Yes,Yes,SKIP
+Smoke Test - 03 : 070,Verify Contact us >>,CHKIMGS,,,contact-us/,Yes,Yes,SKIP
+Smoke Test - 03 : 071,Verify Terms and conditions >>,CHKIMGS,,,terms-and-conditions/,Yes,Yes,SKIP
+Smoke Test - 03 : 072,Verify Our privacy promise >>,CHKIMGS,,,our-privacy-promise/,Yes,Yes,SKIP
+Smoke Test - 03 : 073,Verify Our privacy promise >> Customer privacy notice,CHKIMGS,,,our-privacy-promise/customer-privacy-notice/,Yes,Yes,SKIP
+Smoke Test - 03 : 074,Verify Our privacy promise >> Website user notice,CHKIMGS,,,our-privacy-promise/website-user-notice/,Yes,Yes,SKIP
+Smoke Test - 03 : 075,Verify Our privacy promise >> Security measures,CHKIMGS,,,our-privacy-promise/security-measures/,Yes,Yes,SKIP
+Smoke Test - 03 : 076,Verify Our privacy promise >> App privacy notice,CHKIMGS,,,our-privacy-promise/app-privacy-notice/,Yes,Yes,SKIP
+Smoke Test - 03 : 077,Verify Our privacy promise >> Credit score privacy notice,CHKIMGS,,,,No,No,SKIP
+Smoke Test - 03 : 078,Verify Befraudaware >>,CHKIMGS,,,befraudaware/,Yes,Yes,SKIP
+Smoke Test - 03 : 079,Verify Cookie policy >>,CHKIMGS,,,cookie-policy/,Yes,Yes,SKIP
+Smoke Test - 03 : 080,Verify Complaints procedure >>,CHKIMGS,,,complaints-procedure/,Yes,Yes,SKIP
+Smoke Test - 03 : 081,Verify Modern slavery >>,CHKIMGS,,,modern-slavery/,Yes,Yes,SKIP
+Smoke Test - 03 : 082,Verify Prize draw tandcs >>,CHKIMGS,,,prize-draw-tandcs/,Yes,Yes,SKIP
+Smoke Test - 03 : 083,Verify HTML Sitemap >>,CHKIMGS,,,html-sitemap/,Yes,Yes,SKIP
+Smoke Test - 03 : 084,Verify Mobile app >>,CHKIMGS,,,mobile-app/,Yes,Yes,SKIP
+Smoke Test - 03 : 085,Verify Snoop >>,CHKIMGS,,,snoop/,Yes,Yes,SKIP
+Smoke Test - 03 : 086,Verify 404 >>,CHKIMGS,,,404/,Yes,Yes,SKIP
+Smoke Test - 03 : 087,Verify 500 >>,CHKIMGS,,,500/,Yes,Yes,SKIP
+Smoke Test - 03 : 088,Verify Maintenance >>,CHKIMGS,,,maintenance/,Yes,Yes,SKIP
+Smoke Test - 03 : 089,Verify Sitemap >>,CHKIMGS,,,sitemap/,No,No,SKIP
+Smoke Test - 03 : 090,Verify Continuous Payment Authority >>,CHKIMGS,,,continuous-payment-authority/,Yes,Yes,SKIP
+Smoke Test - 03 : 091,Verify Credit Score >>,CHKIMGS,,,credit-score/,Yes,Yes,SKIP
+Smoke Test - 03 : 092,Verify Discounts >>,CHKIMGS,,,discounts/,Yes,Yes,SKIP
+"ï»¿Test Step ID,","Test Step Description,","Keyword,","Object,","Locator,","Test Data,","ExecuteStep(Yes/No),","CaptureScreen(Yes/No),","Execution Status,"
+"",Open URL >> About Us >>,NAVIGATE,,,about-us/,Yes,Yes,SKIP
+"",Verify About US Page >> Heading,GETCONTENT,,,Becoming debt free should be simple and affordable,Yes,Yes,SKIP
+"",Verify About US Page >> Start your debt-free journey Button,GETTEXT,btn_abtus_dbtfrejrny,XPATH,,Yes,Yes,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Verify About US Page >> Sub-Heading >> Who is Lowell?,GETCONTENT,,,Who is Lowell?,Yes,Yes,SKIP
+"",Verify About US Page >> More about Lowell Button,GETTEXT,btn_mrabtlwl,XPATH,,Yes,Yes,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Verify About US Page >> Sub-Heading >> Why do we have your debt?,GETCONTENT,,,Why do we have your debt?,Yes,Yes,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Verify About US Page >> Sub-Heading >> How we'll work with you,GETCONTENT,,,ll work with you,Yes,Yes,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Verify About US Page >> How we can help button,GETTEXT,btn_hwcnhlp,XPATH,,Yes,Yes,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Verify About US Page >> Sub-Heading >> Whatâ??s the next step?,GETCONTENT,,,the next step?,Yes,Yes,SKIP
+"",Verify About US Page >> Learn more button,GETTEXT,btn_lrnmore,XPATH,,Yes,Yes,SKIP
+"",Verify About US Page >> Get in touch button,GETTEXT,btn_gtintoch,XPATH,,Yes,Yes,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Verify About US Page >> Sub-Heading >> What we will and won't do,GETCONTENT,,,What we will and won,Yes,Yes,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Verify About US Page >> Sub-Heading >> Start your journey today,GETCONTENT,,,Start your journey today,Yes,Yes,SKIP
+"",Scrol little down to Element,SCROLDOWN,,,,Yes,No,SKIP
+"",Verify About US Page >> Ways to pay,GETTEXT,btn_wystopay,XPATH,,Yes,Yes,SKIP
+"Test Step ID,","Test Step Description,","Keyword,","Object,","Locator,","Test Data,","ExecuteStep(Yes/No),","CaptureScreen(Yes/No),","Execution Status,"
+Smoke Test - 05 :001,Open URL >> Lowell Landing Page >>,NAVIGATE,,,,Yes,Yes,Pass
+Smoke Test - 05 :002,Verify Page logo,SIKULI,,,btnqukpaymt,Yes,Yes,pass
+Smoke Test - 05 :003,Verify Page menu,SIKULI,,,menu,Yes,Yes,pass
+Smoke Test - 05 :004,Verify Page content,SIKULI,,,content-text,Yes,Yes,pass
+Smoke Test - 05 :005,Verify Page content image,SIKULI,,,homepage-hero,Yes,Yes,pass

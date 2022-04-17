@@ -1,0 +1,20 @@
+Test Step ID,Test Step Description,Keyword,Object,Locator,Test Data,ExecuteStep(Yes/No),CaptureScreen(Yes/No),Execution Status
+Smoke Test - 01 : 001,Given URL >> When Lowell Landing Page loaded >> Then Verify Page,NAVIGATE,,,,Yes,Yes,NO RUN
+Smoke Test - 01 : 002,And Verify Page Header >>  Quick payment Button,GETTEXT,btn_qukpaymt,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 01 : 003,And Verify Page Header >>  Sign up/in Button,GETTEXT,btn_signup,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 01 : 004,And Verify Page >> MENU Links >> About us,LINKTEXT,,,About us,Yes,Yes,NO RUN
+Smoke Test - 01 : 005,And Verify Page >> MENU Links >> Your next steps,LINKTEXT,,,Your next steps,Yes,Yes,NO RUN
+Smoke Test - 01 : 006,And Verify Page >> MENU Links >> Ways to pay,LINKTEXT,,,Ways to pay,Yes,Yes,NO RUN
+Smoke Test - 01 : 007,And Verify Page >> MENU Links >> Help and support,LINKTEXT,,,Help and support,Yes,Yes,NO RUN
+Smoke Test - 01 : 008,And Verify Page >> MENU Links >> Contact us,LINKTEXT,,,Contact us,Yes,Yes,NO RUN
+Smoke Test - 01 : 009,And Verify Page >> Footer Links >> Terms and Conditions,LINKTEXT,,,Terms and Conditions,Yes,Yes,NO RUN
+Smoke Test - 01 : 010,And Verify Page >> Footer Links >> Our Privacy Promise,LINKTEXT,,,Our Privacy Promise,Yes,Yes,NO RUN
+Smoke Test - 01 : 011,And Verify Page >> Footer Links >> Fraud Awareness,LINKTEXT,,,Fraud Awareness,Yes,Yes,NO RUN
+Smoke Test - 01 : 012,And Verify Page >> Footer Links >> Cookie Policy,LINKTEXT,,,Cookie Policy,Yes,Yes,NO RUN
+Smoke Test - 01 : 013,And Verify Page >> Footer Links >> Cookie Preferences,LINKTEXT,,,Cookie Preferences,Yes,Yes,NO RUN
+Smoke Test - 01 : 014,And Verify Page >> Footer Links >> Sitemap,LINKTEXT,,,Sitemap,Yes,Yes,NO RUN
+Smoke Test - 01 : 015,And Verify Page >> Footer Links >> Modern slavery,LINKTEXT,,,Modern Slavery,Yes,Yes,NO RUN
+Smoke Test - 01 : 016,And Verify Page >> Footer Links >> Complaints Procedure,LINKTEXT,,,Complaints Procedure,Yes,Yes,NO RUN
+Smoke Test - 01 : 017,And Verify Page >> Footer Links >> Corporate Site,LINKTEXT,,,Corporate Site,Yes,Yes,NO RUN
+Smoke Test - 01 : 018,And Verify Page >> Footer Links >> Lowell Business Site,LINKTEXT,,,Lowell Business Site,Yes,Yes,NO RUN
+Smoke Test - 01 : 019,And Verify Page >> Footer Copy >> CopyRights,GETCONTENT,,,"Company Registration number 4857418 and Lowell Financial Ltd, Company Registration number 4558936",Yes,Yes,NO RUN

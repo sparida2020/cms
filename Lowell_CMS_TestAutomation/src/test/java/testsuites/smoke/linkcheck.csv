@@ -1,0 +1,93 @@
+Test Step ID,Test Step Description,Keyword,Object,Locator,Test Data,ExecuteStep(Yes/No),CaptureScreen(Yes/No),Execution Status
+Smoke Test - 02 : 001,Verify About US Page >> ,CHKLINKS,,,about-us/,Yes,Yes,NO RUN
+Smoke Test - 02 : 002,Verify About Us >> Lowells blog >> ,CHKLINKS,,,about-us/lowells-blog/,Yes,Yes,NO RUN
+Smoke Test - 02 : 003,Verify About Us >> Lowell news >> ,CHKLINKS,,,about-us/lowells-blog/lowell-news/,Yes,Yes,NO RUN
+Smoke Test - 02 : 004,Verify About Us >> Lowell news >> Welcome to our blog,CHKLINKS,,,about-us/lowells-blog/lowell-news/welcome-to-our-blog/,Yes,Yes,NO RUN
+Smoke Test - 02 : 005,Verify About Us >> Lowell news >> Coronavirus support,CHKLINKS,,,about-us/lowells-blog/lowell-news/coronavirus-support/,Yes,Yes,NO RUN
+Smoke Test - 02 : 006,Verify About Us >> Lowell news >> How our new Customer Panel helps Lowell customers,CHKLINKS,,,about-us/lowells-blog/lowell-news/how-our-new-customer-panel-helps-lowell-customers/,Yes,Yes,NO RUN
+Smoke Test - 02 : 007,Verify About Us >> Myth busting,CHKLINKS,,,about-us/lowells-blog/myth-busting/,Yes,Yes,NO RUN
+Smoke Test - 02 : 008,Verify About Us >> Myth busting >> Budget calculator myth,CHKLINKS,,,about-us/lowells-blog/myth-busting/budget-calculator-myth/,Yes,Yes,NO RUN
+Smoke Test - 02 : 009,Verify About Us >> Myth busting >> Lowell is a scam artist myth,CHKLINKS,,,about-us/lowells-blog/myth-busting/lowell-is-a-scam-artist-myth/,Yes,Yes,NO RUN
+Smoke Test - 02 : 010,Verify About Us >> Myth busting >> Credit score myths,CHKLINKS,,,about-us/lowells-blog/myth-busting/credit-score-myths/,Yes,Yes,NO RUN
+Smoke Test - 02 : 011,Verify About Us >> Online features,CHKLINKS,,,about-us/lowells-blog/online-features/,Yes,Yes,NO RUN
+Smoke Test - 02 : 012,Verify About Us >>  Online features >> Online account features,CHKLINKS,,,about-us/lowells-blog/online-features/online-account-features/,Yes,Yes,NO RUN
+Smoke Test - 02 : 013,Verify About Us >> Financial health,CHKLINKS,,,about-us/lowells-blog/financial-health/,Yes,Yes,NO RUN
+Smoke Test - 02 : 014,Verify About Us >> Financial health >> Improve your credit score,CHKLINKS,,,about-us/lowells-blog/financial-health/improve-your-credit-score/,Yes,Yes,NO RUN
+Smoke Test - 02 : 015,Verify About Us >> Financial health >> What Brits would rather talk about,CHKLINKS,,,about-us/lowells-blog/financial-health/what-brits-would-rather-talk-about/,Yes,Yes,NO RUN
+Smoke Test - 02 : 016,Verify About Us >> Financial health >> Struggling to afford January 2021,CHKLINKS,,,about-us/lowells-blog/financial-health/struggling-to-afford-january-2021/,Yes,Yes,NO RUN
+Smoke Test - 02 : 017,Verify About Us >> Financial health >> Hidden Debt – why we don’t talk about our debt problems,CHKLINKS,,,about-us/lowells-blog/financial-health/hidden-debt-why-we-don-t-talk-about-our-debt-problems/,Yes,Yes,NO RUN
+Smoke Test - 02 : 018,Verify About Us >> Financial health >> The financial tips we wish we'd learnt as a child,CHKLINKS,,,about-us/lowells-blog/financial-health/the-financial-tips-we-wish-we-d-learnt-as-a-child/,Yes,Yes,NO RUN
+Smoke Test - 02 : 019,Verify About Us >> Financial health >> Does the UK Have a Financial Confidence Problem?,CHKLINKS,,,about-us/lowells-blog/financial-health/does-the-uk-have-a-financial-confidence-problem/,Yes,Yes,NO RUN
+Smoke Test - 02 : 020,Verify About Us >> Financial health >> How many Brits fall victim to card fraud?,CHKLINKS,,,about-us/lowells-blog/financial-health/how-many-brits-fall-victim-to-card-fraud/,Yes,Yes,NO RUN
+Smoke Test - 02 : 021,Verify About Us >> Lifestyle >>,CHKLINKS,,,about-us/lowells-blog/lifestyle/,Yes,Yes,NO RUN
+Smoke Test - 02 : 022,Verify About Us >> Lifestyle >> Christmas pressure,CHKLINKS,,,about-us/lowells-blog/lifestyle/christmas-pressure/,Yes,Yes,NO RUN
+Smoke Test - 02 : 023,Verify About Us >> Saving and budgeting,CHKLINKS,,,about-us/lowells-blog/saving-and-budgeting/,Yes,Yes,NO RUN
+Smoke Test - 02 : 024,Verify About Us >> Saving and budgeting >> Calculations for 2021 budget,CHKLINKS,,,about-us/lowells-blog/saving-and-budgeting/calculations-for-2021-budget/ ,Yes,Yes,NO RUN
+Smoke Test - 02 : 025,Verify About Us >> Saving and budgeting >> How to create a budget and manage your money,CHKLINKS,,,about-us/lowells-blog/saving-and-budgeting/how-to-create-a-budget-and-manage-your-money/ ,Yes,Yes,NO RUN
+Smoke Test - 02 : 026,Verify About Us >> Wellbeing >>,CHKLINKS,,,about-us/lowells-blog/wellbeing/ ,Yes,Yes,NO RUN
+Smoke Test - 02 : 027,Verify About Us >> Wellbeing >> Blue Monday,CHKLINKS,,,about-us/lowells-blog/wellbeing/blue-monday/,Yes,Yes,NO RUN
+Smoke Test - 02 : 028,Verify About Us >> Wellbeing >> Time to talk,CHKLINKS,,,about-us/lowells-blog/wellbeing/time-to-talk/,Yes,Yes,NO RUN
+Smoke Test - 02 : 029,Verify About Us >> Wellbeing >> Covid-19 and debt,CHKLINKS,,,about-us/lowells-blog/wellbeing/covid-19-and-debt/,Yes,Yes,NO RUN
+Smoke Test - 02 : 030,Verify About Us >> Wellbeing >> International Day of Happiness: See what our customers have to say,CHKLINKS,,,about-us/lowells-blog/wellbeing/international-day-of-happiness-see-what-our-customers-have-to-say/,Yes,Yes,NO RUN
+Smoke Test - 02 : 031,Verify About Us >> Wellbeing >> How do we support our customers' mental health,CHKLINKS,,,about-us/lowells-blog/wellbeing/how-do-we-support-our-customers-mental-health/,Yes,Yes,NO RUN
+Smoke Test - 02 : 032,Verify Your next steps >> ,CHKLINKS,,,your-next-steps/ ,Yes,Yes,NO RUN
+Smoke Test - 02 : 033,Verify Your next steps >> Paying debt,CHKLINKS,,,your-next-steps/#paying-debt/,Yes,Yes,NO RUN
+Smoke Test - 02 : 034,Verify Your next steps >> Not Paying,CHKLINKS,,,your-next-steps/#not-paying/,Yes,Yes,NO RUN
+Smoke Test - 02 : 035,Verify Your next steps >> Can't pay,CHKLINKS,,,your-next-steps/#can-t-pay/ ,Yes,Yes,NO RUN
+Smoke Test - 02 : 036,Verify Your next steps >> Change in circumstances,CHKLINKS,,,your-next-steps/#change-in-circumstances/,Yes,Yes,NO RUN
+Smoke Test - 02 : 037,Verify Your next steps >> Disputing debt,CHKLINKS,,,your-next-steps/#disputing-debt/,Yes,Yes,NO RUN
+Smoke Test - 02 : 038,Verify Your next steps >> Online account,CHKLINKS,,,your-next-steps/online-account/ ,Yes,Yes,NO RUN
+Smoke Test - 02 : 039,Verify Ways to pay >> ,CHKLINKS,,,ways-to-pay/,Yes,Yes,NO RUN
+Smoke Test - 02 : 040,Verify Ways to pay >> Payment options,CHKLINKS,,,ways-to-pay/payment-options/,Yes,Yes,NO RUN
+Smoke Test - 02 : 041,Verify Ways to pay >> Direct debit guarantee,CHKLINKS,,,ways-to-pay/payment-options/direct-debit-guarantee/ ,Yes,Yes,NO RUN
+Smoke Test - 02 : 042,Verify Help and support >> ,CHKLINKS,,,help-and-support/,Yes,Yes,NO RUN
+Smoke Test - 02 : 043,Verify Help and support >> FAQs >> ,CHKLINKS,,,help-and-support/faqs/,Yes,Yes,NO RUN
+Smoke Test - 02 : 044,Verify Help and support >> FAQs >> FAQS - About Lowell,CHKLINKS,,,help-and-support/faqs/about-lowell/,Yes,Yes,NO RUN
+Smoke Test - 02 : 045,Verify Help and support >> FAQs >> FAQS - Data Privacy,CHKLINKS,,,help-and-support/faqs/data-privacy/,Yes,Yes,NO RUN
+Smoke Test - 02 : 046,Verify Help and support >> FAQs >> FAQS - Complaints,CHKLINKS,,,help-and-support/faqs/complaints/,Yes,Yes,NO RUN
+Smoke Test - 02 : 047,Verify Help and support >> FAQs >> FAQS - Legal Process,CHKLINKS,,,help-and-support/faqs/legal-process/,Yes,Yes,NO RUN
+Smoke Test - 02 : 048,Verify Help and support >> FAQs >> FAQS - Accounts,CHKLINKS,,,help-and-support/faqs/accounts/,Yes,Yes,NO RUN
+Smoke Test - 02 : 049,Verify Help and support >> FAQs >> FAQS - Payments,CHKLINKS,,,help-and-support/faqs/payments/,Yes,Yes,NO RUN
+Smoke Test - 02 : 050,Verify Help and support >> FAQs >> FAQS - Credit File,CHKLINKS,,,help-and-support/faqs/credit-file/,Yes,Yes,NO RUN
+Smoke Test - 02 : 051,Verify Help and support >> FAQs >> FAQS - Contacting Lowell,CHKLINKS,,,help-and-support/faqs/contacting-lowell/,Yes,Yes,NO RUN
+Smoke Test - 02 : 052,Verify Help and support >> FAQs >> FAQS - Credit agreements and documents,CHKLINKS,,,help-and-support/faqs/credit-agreements-and-documents/,Yes,Yes,NO RUN
+Smoke Test - 02 : 053,Verify Help and support >> FAQs >> FAQS - Mobile App,CHKLINKS,,,help-and-support/faqs/mobile-app/,Yes,Yes,NO RUN
+Smoke Test - 02 : 054,Verify Help and support >> FAQs >> FAQS - Snoop,CHKLINKS,,,help-and-support/faqs/snoop/,Yes,Yes,NO RUN
+Smoke Test - 02 : 055,Verify Help and support >> Independent support >>,CHKLINKS,,,help-and-support/independent-support/,Yes,Yes,NO RUN
+Smoke Test - 02 : 056,Verify Help and support >> Independent support >> Independent support - Other support and advice,CHKLINKS,,,help-and-support/independent-support/other-support-and-advice/,Yes,Yes,NO RUN
+Smoke Test - 02 : 057,Verify Help and support >> Budget calculator >>,CHKLINKS,,,help-and-support/budget-calculator/,Yes,Yes,NO RUN
+Smoke Test - 02 : 058,Verify Help and support >> Budget calculator >> Budget calculator - Open Banking,CHKLINKS,,,,Yes,Yes,NO RUN
+Smoke Test - 02 : 059,Verify Help and support >> Coronavirus help >>,CHKLINKS,,,help-and-support/coronavirus-help/,Yes,Yes,NO RUN
+Smoke Test - 02 : 060,Verify Help and support >> Debt guidance >>,CHKLINKS,,,help-and-support/debt-guidance/,Yes,Yes,NO RUN
+Smoke Test - 02 : 061,Verify Help and support >> Debt guidance >> Debt collection process,CHKLINKS,,,help-and-support/debt-guidance/debt-collection-process/,Yes,Yes,NO RUN
+Smoke Test - 02 : 062,Verify Help and support >> Debt guidance >> Credit file guide,CHKLINKS,,,help-and-support/debt-guidance/credit-file-guide/,Yes,Yes,NO RUN
+Smoke Test - 02 : 063,Verify Help and support >> Debt guidance >> Default guide,CHKLINKS,,,help-and-support/debt-guidance/default-guide/,Yes,Yes,NO RUN
+Smoke Test - 02 : 064,Verify Help and support >> Debt guidance >> Debt support guide,CHKLINKS,,,help-and-support/debt-guidance/debt-support-guide/,Yes,Yes,NO RUN
+Smoke Test - 02 : 065,Verify Help and support >> Debt guidance >> How to deal with bailiffs,CHKLINKS,,,help-and-support/debt-guidance/how-to-deal-with-bailiffs/,Yes,Yes,NO RUN
+Smoke Test - 02 : 066,Verify Help and support >> Debt guidance >> How does a discount work with debt,CHKLINKS,,,help-and-support/debt-guidance/how-does-a-discount-work-with-debt/,Yes,Yes,NO RUN
+Smoke Test - 02 : 067,Verify Help and support >> Debt guidance >> What is a Debt Management Plan,CHKLINKS,,,help-and-support/debt-guidance/what-is-a-debt-management-plan/,Yes,Yes,NO RUN
+Smoke Test - 02 : 068,Verify Help and support >> Debt guidance >> What is a CCJ and how does it impact me,CHKLINKS,,,help-and-support/debt-guidance/what-is-a-ccj-and-how-does-it-impact-me/,Yes,Yes,NO RUN
+Smoke Test - 02 : 069,Verify Help and support >> Debt guidance >> How to recognise if a debts yours,CHKLINKS,,,help-and-support/debt-guidance/how-to-recognise-if-a-debts-yours/,Yes,Yes,NO RUN
+Smoke Test - 02 : 070,Verify Contact us >> ,CHKLINKS,,,contact-us/,Yes,Yes,NO RUN
+Smoke Test - 02 : 071,Verify Terms and conditions >> ,CHKLINKS,,,terms-and-conditions/,Yes,Yes,NO RUN
+Smoke Test - 02 : 072,Verify Our privacy promise >> ,CHKLINKS,,,our-privacy-promise/,Yes,Yes,NO RUN
+Smoke Test - 02 : 073,Verify Our privacy promise >> Customer privacy notice,CHKLINKS,,,our-privacy-promise/customer-privacy-notice/,Yes,Yes,NO RUN
+Smoke Test - 02 : 074,Verify Our privacy promise >> Website user notice,CHKLINKS,,,our-privacy-promise/website-user-notice/,Yes,Yes,NO RUN
+Smoke Test - 02 : 075,Verify Our privacy promise >> Security measures,CHKLINKS,,,our-privacy-promise/security-measures/,Yes,Yes,NO RUN
+Smoke Test - 02 : 076,Verify Our privacy promise >> App privacy notice,CHKLINKS,,,our-privacy-promise/app-privacy-notice/,Yes,Yes,NO RUN
+Smoke Test - 02 : 077,Verify Our privacy promise >> Credit score privacy notice,CHKLINKS,,,,Yes,Yes,NO RUN
+Smoke Test - 02 : 078,Verify Befraudaware >> ,CHKLINKS,,,befraudaware/,Yes,Yes,NO RUN
+Smoke Test - 02 : 079,Verify Cookie policy >> ,CHKLINKS,,,cookie-policy/,Yes,Yes,NO RUN
+Smoke Test - 02 : 080,Verify Complaints procedure >> ,CHKLINKS,,,complaints-procedure/,Yes,Yes,NO RUN
+Smoke Test - 02 : 081,Verify Modern slavery >> ,CHKLINKS,,,modern-slavery/,Yes,Yes,NO RUN
+Smoke Test - 02 : 082,Verify Prize draw tandcs >>,CHKLINKS,,,prize-draw-tandcs/,Yes,Yes,NO RUN
+Smoke Test - 02 : 083,Verify HTML Sitemap >>,CHKLINKS,,,html-sitemap/,Yes,Yes,NO RUN
+Smoke Test - 02 : 084,Verify Mobile app >>,CHKLINKS,,,mobile-app/,Yes,Yes,NO RUN
+Smoke Test - 02 : 085,Verify Snoop >>,CHKLINKS,,,snoop/,Yes,Yes,NO RUN
+Smoke Test - 02 : 086,Verify 404 >>,CHKLINKS,,,404/,Yes,Yes,NO RUN
+Smoke Test - 02 : 087,Verify 500 >>,CHKLINKS,,,500/,Yes,Yes,NO RUN
+Smoke Test - 02 : 088,Verify Maintenance >>,CHKLINKS,,,maintenance/,Yes,Yes,NO RUN
+Smoke Test - 02 : 089,Verify Sitemap >>,CHKLINKS,,,sitemap/,No,No,NO RUN
+Smoke Test - 02 : 090,Verify Continuous Payment Authority >>,CHKLINKS,,,continuous-payment-authority/,Yes,Yes,NO RUN
+Smoke Test - 02 : 091,Verify Credit Score >>,CHKLINKS,,,credit-score/,Yes,Yes,NO RUN
+Smoke Test - 02 : 092,Verify Discounts >>,CHKLINKS,,,discounts/,Yes,Yes,NO RUN

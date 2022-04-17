@@ -1,0 +1,6 @@
+"Test Case,","Test Case Description,","Feature Name,","Execute(Yes/No),","Execution Status,"
+Smoke Test - 01,Verify CMS page headers and footers,header-footer,No,SKIP
+Smoke Test - 02,Verify CMS page all available links,linkcheck,No,SKIP
+Smoke Test - 03,Verify CMS page all available images,imgcheck,No,SKIP
+Smoke Test - 04,Verify CMS pages and contents,mastercms,No,SKIP
+Smoke Test - 05,Compare CMS page Images,compare,Yes,Pass

@@ -1,0 +1,6 @@
+Test Step ID,Test Step Description,Keyword,Object,Locator,Test Data,ExecuteStep(Yes/No),CaptureScreen(Yes/No),Execution Status
+Smoke Test - 05 :001,Open URL >> Lowell Landing Page >>,NAVIGATE,,,,Yes,Yes,NO RUN
+Smoke Test - 05 :002,Verify Page logo,SIKULI,,,btnqukpaymt,Yes,Yes,NO RUN
+Smoke Test - 05 :003,Verify Page menu,SIKULI,,,menu,Yes,Yes,NO RUN
+Smoke Test - 05 :004,Verify Page content,SIKULI,,,content-text,Yes,Yes,NO RUN
+Smoke Test - 05 :005,Verify Page content image,SIKULI,,,homepage-hero,Yes,Yes,NO RUN

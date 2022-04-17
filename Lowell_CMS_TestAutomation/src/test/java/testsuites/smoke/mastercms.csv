@@ -1,0 +1,362 @@
+﻿Test Step ID,Test Step Description,Keyword,Object,Locator,Test Data,ExecuteStep(Yes/No),CaptureScreen(Yes/No),Execution Status
+Smoke Test - 04 : 001,Open URL >> About Us >>,NAVIGATE,,,about-us/,Yes,Yes,NO RUN
+Smoke Test - 04 : 002,Verify About US Page >> Heading ,GETCONTENT,,,Becoming debt free should be simple and affordable,Yes,Yes,NO RUN
+Smoke Test - 04 : 003,Verify About US Page >> Start your debt-free journey Button,GETTEXT,btn_abtus_dbtfrejrny,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 004,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 005,Verify About US Page >> Sub-Heading >> Who is Lowell?,GETCONTENT,,,Who is Lowell?,Yes,Yes,NO RUN
+Smoke Test - 04 : 006,Verify About US Page >> More about Lowell Button,GETTEXT,btn_mrabtlwl,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 007,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 008,Verify About US Page >> Sub-Heading >> Why do we have your debt?,GETCONTENT,,,Why do we have your debt?,Yes,Yes,NO RUN
+Smoke Test - 04 : 009,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 010,Verify About US Page >> Sub-Heading >> How we'll work with you,GETCONTENT,,,ll work with you          ,Yes,Yes,NO RUN
+Smoke Test - 04 : 011,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 012,Verify About US Page >> How we can help button,GETTEXT,btn_hwcnhlp,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 013,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 014,Verify About US Page >> Sub-Heading >> What’s the next step?,GETCONTENT,,,the next step?                          ,Yes,Yes,NO RUN
+Smoke Test - 04 : 015,Verify About US Page >> Learn more button,GETTEXT,btn_lrnmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 016,Verify About US Page >> Get in touch button,GETTEXT,btn_gtintoch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 017,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 018,Verify About US Page >> Sub-Heading >> What we will and won't do,GETCONTENT,,,What we will and won,Yes,Yes,NO RUN
+Smoke Test - 04 : 019,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 020,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 021,Verify About US Page >> Sub-Heading >> Start your journey today,GETCONTENT,,,Start your journey today,Yes,Yes,NO RUN
+Smoke Test - 04 : 022,Scrol little down to Element,SCROLDOWN,,,,Yes,No,NO RUN
+Smoke Test - 04 : 023,Verify About US Page >> Ways to pay,GETTEXT,btn_wystopay,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 024,Open URL >> About Us >> Lowells blog,NAVIGATE,,,about-us/lowells-blog/,Yes,Yes,NO RUN
+Smoke Test - 04 : 025,Verify About US Page >> Heading ,CLICK,txt_lwlblog,XPATH,"""Lowell's blog""",Yes,Yes,NO RUN
+Smoke Test - 04 : 026,Verify About US Page >> Heading >> Description,GETCONTENT,,,We share our knowledge on all things debt and Lowell-related to help put you in control of your finances,Yes,Yes,NO RUN
+Smoke Test - 04 : 027,Verify About US Page >> Sub-Heading >> Have a question you want answered?,GETCONTENT,,,Have a question you want answered,Yes,Yes,NO RUN
+Smoke Test - 04 : 028,Verify About US Page >> Sub-Heading >> Description,GETCONTENT,,,Visit our Help and support page to read our FAQs on who Lowell are,Yes,Yes,NO RUN
+Smoke Test - 04 : 029,Verify About US Page >> Read our FAQs button,GETTEXT,btn_readfaqs,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 030,Verify About US Page >> Sub-Heading >> Start repaying and take control,GETCONTENT,,,Start repaying and take control,Yes,Yes,NO RUN
+Smoke Test - 04 : 031,Verify About US Page >> Start paying now Button,GETTEXT,btn_strtpayingnw,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 032,Open URL >> About Us >> lowells-blog >> lowell-news,NAVIGATE,,,about-us/lowells-blog/lowell-news/,Yes,Yes,NO RUN
+Smoke Test - 04 : 033,Open URL >> About Us >> lowells-blog >> lowell-news >> welcome-to-our-blog,NAVIGATE,,,about-us/lowells-blog/lowell-news/welcome-to-our-blog/,Yes,Yes,NO RUN
+Smoke Test - 04 : 034,Open URL >> About Us >> lowells-blog >> lowell-news >> welcome-to-our-blog>> Heading,GETCONTENT,,,Welcome to our new blog,Yes,Yes,NO RUN
+Smoke Test - 04 : 035,Open URL >> About Us >> lowells-blog >> lowell-news >> welcome-to-our-blog>> Heading >> Description,GETCONTENT,,,Our new blog is here to share our experience and knowledge of debt and how it works,Yes,Yes,NO RUN
+Smoke Test - 04 : 036,Open URL >> About Us >> lowells-blog >> lowell-news >> welcome-to-our-blog>> Sub-Heading,GETCONTENT,,,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 037,Open URL >> About Us >> lowells-blog >> lowell-news >> welcome-to-our-blog>> Sub-Heading,GETCONTENT,,,wait to learn more about Lowell,Yes,Yes,NO RUN
+Smoke Test - 04 : 038,Open URL >> About Us >> lowells-blog >> lowell-news >> welcome-to-our-blog>> Sub-Heading,GETCONTENT,,,what we do and why we feel becoming debt free should be simple and affordable,Yes,Yes,NO RUN
+Smoke Test - 04 : 039,Open URL >> About Us >> lowells-blog >> lowell-news >> welcome-to-our-blog>> Learn about us Button,GETTEXT,btn_lrnabtus,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 040,Open URL >> About Us >> lowells-blog >> lowell-news >> coronavirus-support,NAVIGATE,,,about-us/lowells-blog/lowell-news/coronavirus-support/,Yes,Yes,NO RUN
+Smoke Test - 04 : 041,Open URL >> About Us >> lowells-blog >> lowell-news >> coronavirus-support >> Heading,GETCONTENT,,,Can Lowell support me during Coronavirus,Yes,Yes,NO RUN
+Smoke Test - 04 : 042,Open URL >> About Us >> lowells-blog >> lowell-news >> coronavirus-support >> Heading >> Description,GETCONTENT,,,"Find out how we can help you with your debt with extra time, more flexibility and additional support.",Yes,Yes,NO RUN
+Smoke Test - 04 : 043,Open URL >> About Us >> lowells-blog >> lowell-news >> coronavirus-support >> Sub-Heading,GETCONTENT,,,Our promises to you,Yes,Yes,NO RUN
+Smoke Test - 04 : 044,Open URL >> About Us >> lowells-blog >> lowell-news >> coronavirus-support >> Sub-Heading,GETCONTENT,,,Need extra support,Yes,Yes,NO RUN
+Smoke Test - 04 : 045,Open URL >> About Us >> lowells-blog >> lowell-news >> coronavirus-support >> Find help and suppport Button,GETTEXT,btn_hlp&sup,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 046,Open URL >> About Us >> lowells-blog >> lowell-news >> coronavirus-support >> Sub-Heading,GETCONTENT,,,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 047,Open URL >> About Us >> lowells-blog >> lowell-news >> how-our-new-customer-panel-helps-lowell-customers,NAVIGATE,,,about-us/lowells-blog/lowell-news/how-our-new-customer-panel-helps-lowell-customers/,Yes,Yes,NO RUN
+Smoke Test - 04 : 048,Open URL >> About Us >> lowells-blog >> lowell-news >> how-our-new-customer-panel-helps-lowell-customers >> Heading,GETCONTENT,,,How our new Customer Panel helps Lowell Customers,Yes,Yes,NO RUN
+Smoke Test - 04 : 049,Open URL >> About Us >> lowells-blog >> lowell-news >> how-our-new-customer-panel-helps-lowell-customers >> Heading >> Description,GETCONTENT,,,our customers are our first priority,Yes,Yes,NO RUN
+Smoke Test - 04 : 050,Open URL >> About Us >> lowells-blog >> lowell-news >> how-our-new-customer-panel-helps-lowell-customers >> Sub-Heading ,GETCONTENT,,,A positive change,Yes,Yes,NO RUN
+Smoke Test - 04 : 051,Open URL >> About Us >> lowells-blog >> lowell-news >> how-our-new-customer-panel-helps-lowell-customers >> Sub-Heading ,GETCONTENT,,,How do customers benefit from the Customer Panel,Yes,Yes,NO RUN
+Smoke Test - 04 : 052,Open URL >> About Us >> lowells-blog >> lowell-news >> how-our-new-customer-panel-helps-lowell-customers >> Sub-Heading ,GETCONTENT,,,An opportunity for you to have your say,Yes,Yes,NO RUN
+Smoke Test - 04 : 053,Open URL >> About Us >> lowells-blog >> lowell-news >> how-our-new-customer-panel-helps-lowell-customers >> head to the Lowell blog link,GETTEXT,lnk_hdtolwlblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 054,Open URL >> About Us >> lowells-blog >> myth-busting,NAVIGATE,,,about-us/lowells-blog/myth-busting/,Yes,Yes,NO RUN
+Smoke Test - 04 : 055,Open URL >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth,NAVIGATE,,,about-us/lowells-blog/myth-busting/budget-calculator-myth/ ,Yes,Yes,NO RUN
+Smoke Test - 04 : 056,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> Heading,GETCONTENT,,,Will Lowell make me pay more,Yes,Yes,NO RUN
+Smoke Test - 04 : 057,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> Sub- Heading,GETCONTENT,,,Have you ever worried that a company might use the info you share against you,Yes,Yes,NO RUN
+Smoke Test - 04 : 058,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> free Lowell budget calculator link,GETTEXT,lnk_frelwlbdgcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 059,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> over the phone link,GETTEXT,lnk_ovrthephn,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 060,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> Lowell Account link,GETTEXT,lnk_lwlact,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 061,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> Step One,GETCONTENT,,,Step One,Yes,Yes,NO RUN
+Smoke Test - 04 : 062,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> Step One >> log in button,GETTEXT,btn_stepone_login,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 063,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> customer privacy notice link,GETTEXT,lnk_custprinotice,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 064,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> Budget calculator link,GETTEXT,lnk_budgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 065,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> Heading,GETCONTENT,,,Give the budget calculator a go,Yes,Yes,NO RUN
+Smoke Test - 04 : 066,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> BudgCalc_Heading >> Description,GETCONTENT,,,You can log in to use our free online budget calculator or read more about how the budget calculator can benefit you,Yes,Yes,NO RUN
+Smoke Test - 04 : 067,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> BudgCalc_Heading >> log in button,GETTEXT,btn_budgcalc_login,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 068,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> BudgCalc_Heading >> learn more button,GETTEXT,btn_learnmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 069,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> KeepReading_Heading,GETCONTENT,,,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 070,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> ArticleCard_LowellNews,GETCONTENT,,,Lowell news,Yes,Yes,NO RUN
+Smoke Test - 04 : 071,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> ArticleCard_LowellNews >> Heading,GETCONTENT,,,Welcome to our blog,Yes,Yes,NO RUN
+Smoke Test - 04 : 072,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> ArticleCard_LowellNews>>Heading>>Description,GETCONTENT,,,created this new section of our website to share our knowledge and help you,Yes,Yes,NO RUN
+Smoke Test - 04 : 073,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> ArticleCard_LowellNews >> ReadMore button,GETTEXT,btn_lwlnews_readmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 074,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> ArticleCard_OnlineFeatures,GETCONTENT,,,Online features,Yes,Yes,NO RUN
+Smoke Test - 04 : 075,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> ArticleCard_OnlinFeatures >> Heading,GETCONTENT,,,How can I manage my Lowell account online,Yes,Yes,NO RUN
+Smoke Test - 04 : 076,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> ArticleCard_OnlinFeatures >> Heading >> Description,GETCONTENT,,,Take a look at some examples of what your online account will look like,Yes,Yes,NO RUN
+Smoke Test - 04 : 077,Verify >> About Us >> lowells-blog >> myth-busting >> budget-calculator-myth >> ArticleCard_OnlinFeatures >> ReadMore button,GETTEXT,btn_onlinefeature_readmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 078,Open URL >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth,NAVIGATE,,,about-us/lowells-blog/myth-busting/lowell-is-a-scam-artist-myth/,Yes,Yes,NO RUN
+Smoke Test - 04 : 079,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> Heading,CLICK,txt_lwlscamart,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 080,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> Heading >> Sub-Heading,GETCONTENT,,,Some customers who are contacted by Lowell for the first time may be mistakenly concerned that Lowell is a scam,Yes,Yes,NO RUN
+Smoke Test - 04 : 081,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-mythHeading >> Sub-Heading >> Description,GETCONTENT,,,Lowell is a legitimate company,Yes,Yes,NO RUN
+Smoke Test - 04 : 082,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> FinancialConductAuthority link,GETTEXT,lnk_fincondauth,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 083,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> IsLwlScam_Heading,GETCONTENT,,,Is Lowell a scam,Yes,Yes,NO RUN
+Smoke Test - 04 : 084,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> IsLwlScam_Heading >> PrivacyPromise link,GETTEXT,lnk_ourpriprom,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 085,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> HowDoLwlStopScam_Heading,GETCONTENT,,,How do Lowell stop scams,Yes,Yes,NO RUN
+Smoke Test - 04 : 086,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myt h>>  HowDoLwlStopScam_Heading >> FraudAwarenessPage link,GETTEXT,lnk_ourfraudawarpg,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 087,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> HaveLwlBeenRecogn_Heading,GETCONTENT,,,Have Lowell been recognised for their work,Yes,Yes,NO RUN
+Smoke Test - 04 : 088,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >>  LwlBeenRecogn_Heading- >> LowellGroupPage link,GETTEXT,lnk_lwlgrpg,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 089,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> IsLowellPortfolioScam_Heading,GETCONTENT,,,Is Lowell Portfolio a scam,Yes,Yes,NO RUN
+Smoke Test - 04 : 090,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> FinancialWatchdog_Heading,GETCONTENT,,,Is there a financial watchdog for Lowell,Yes,Yes,NO RUN
+Smoke Test - 04 : 091,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> FinancialWatchdog_Heading >> FinServReg link,GETTEXT,lnk_finservreg,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 092,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> LwlOnlineReviews_Heading,GETCONTENT,,,Can I see Lowell reviews online,Yes,Yes,NO RUN
+Smoke Test - 04 : 093,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> LwlOnlineReviews_Heading >> Lwl on Trustpilot link,GETTEXT,lnk_lwlontrustpilot,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 094,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> LwlOnlineReviews_Heading >> GetInTouch link,GETTEXT,lnk_getintch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 095,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> LwlOnlineReviews_Heading >> Debt Guidance Hub link,GETTEXT,lnk_debtguidance,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 096,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> KeepReading_Heading,GETCONTENT,,,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 097,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> ArticleCard_MythBusting,GETCONTENT,,,Myth busting,Yes,Yes,NO RUN
+Smoke Test - 04 : 098,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> ArticleCard_MythBusting >> Heading,GETCONTENT,,,Will Lowell force me to pay the money I have left over,Yes,Yes,NO RUN
+Smoke Test - 04 : 099,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> ArticleCard_MythBusting >> ReadMore link,GETTEXT,lnk_articlecard_readmore1,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 100,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> ArticleCard_LowellNews,GETCONTENT,,,Lowell news,Yes,Yes,NO RUN
+Smoke Test - 04 : 101,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> ArticleCard_LowellNews >> Heading,GETCONTENT,,,Can Lowell support me during Coronavirus,Yes,Yes,NO RUN
+Smoke Test - 04 : 102,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> ArticleCard_LowellNews >> ReadMore link,GETTEXT,lnk_articlecard_readmore2,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 103,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> LearnMoreAboutLwl_Heading,GETCONTENT,,,Want to learn more about Lowell,Yes,Yes,NO RUN
+Smoke Test - 04 : 104,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> LearnMoreAboutLwl_Heading >> Sub-Heading,GETCONTENT,,,"Find out who we are, what we do and why we feel becoming debt free should be simple and affordable",Yes,Yes,NO RUN
+Smoke Test - 04 : 105,Verify >> About Us >> lowells-blog >> myth-busting >> lowell-is-a-scam-artist-myth >> LearnMoreAboutLwl_Heading >> Sub-Heading >> LearnMoreAboutUs link,GETTEXT,btn_lrnmoreabtus,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 106,Open URL >> About Us >> lowells-blog >> myth-busting >>credit-score-myths,NAVIGATE,,,about-us/lowells-blog/myth-busting/credit-score-myths/,Yes,Yes,NO RUN
+Smoke Test - 04 : 107,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Heading,CLICK,txt_crdtscrmyth,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 108,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Description,GETCONTENT,,,passionate about helping to educate our customers about debt and credit,Yes,Yes,NO RUN
+Smoke Test - 04 : 109,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading1,GETCONTENT,,,Half of Brits never check their credit,Yes,Yes,NO RUN
+Smoke Test - 04 : 110,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading1 >> GuidetoCreditFile link,GETTEXT,lnk_guidetoundcrdtfile,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 111,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading1 >> HowtoImproveCreditScore link,GETTEXT,lnk_howtoimprovecreditscore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 112,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading2,GETCONTENT,,,important to know what can affect,Yes,Yes,NO RUN
+Smoke Test - 04 : 113,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading2 >> FAQAboutCreditFile link,GETTEXT,lnk_faqaboutyourcreditfile,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 114,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading3,GETCONTENT,,,What can have an impact,Yes,Yes,NO RUN
+Smoke Test - 04 : 115,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading4,GETCONTENT,,,demographic difference,Yes,Yes,NO RUN
+Smoke Test - 04 : 116,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >>  Sub-Heading4 >> MoneyAdviceService link,GETTEXT,lnk_moneyadviceservice,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 117,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading4 >> DebtGuidenceHub link,GETTEXT,lnk_debtguidance,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 118,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> Sub-Heading4 >>LowellBlog link,GETTEXT,lnk_lowellblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 119,Verify >> About Us >> lowells-blog >> myth-busting >>credit-score-myths >> PublishedBy,GETCONTENT,,,Published by,Yes,Yes,NO RUN
+Smoke Test - 04 : 120,Open URL>> About Us >> lowells-blog >> Online-Features,NAVIGATE,,,about-us/lowells-blog/online-features/,Yes,Yes,NO RUN
+Smoke Test - 04 : 121,Verify >> About Us >> lowells-blog >> Online-Features >> Heading,GETCONTENT,,,How can I manage my Lowell account online,Yes,Yes,NO RUN
+Smoke Test - 04 : 122,Verify >> About Us >> lowells-blog >> Online-Features >> Sub-Heading,GETCONTENT,,,Feel uncertain about giving us a call,Yes,Yes,NO RUN
+Smoke Test - 04 : 123,Verify >> About Us >> lowells-blog >> Online-Features >> Description,GETCONTENT,,,we want to make sure that managing your account is as easy as possible,Yes,Yes,NO RUN
+Smoke Test - 04 : 124,Verify >> About Us >> lowells-blog >> Online-Features >> Description >> OnlineTools link,GETTEXT,lnk_onlintools,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 125,Verify >> About Us >> lowells-blog >> Online-Features >> Creating An Account,GETCONTENT,,,Creating an account,Yes,Yes,NO RUN
+Smoke Test - 04 : 126,Verify >> About Us >> lowells-blog >> Online-Features >> View your account details,GETCONTENT,,,View your account details,Yes,Yes,NO RUN
+Smoke Test - 04 : 127,Verify >> About Us >> lowells-blog >> Online-Features >> Work out your budget,GETCONTENT,,,Work out your budget,Yes,Yes,NO RUN
+Smoke Test - 04 : 128,Verify >> About Us >> lowells-blog >> Online-Features >> Work out your budget >> BudgetCalculator Link,GETTEXT,lnk_budgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 129,Verify >> About Us >> lowells-blog >> Online-Features >> Set a plan,GETCONTENT,,,Set a plan,Yes,Yes,NO RUN
+Smoke Test - 04 : 130,Verify >> About Us >> lowells-blog >> Online-Features >> Make a payment,CLICK,txt_mkapaymnt,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 131,Verify >> About Us >> lowells-blog >> Online-Features >> Try out these features,GETCONTENT,,,Try out these features,Yes,Yes,NO RUN
+Smoke Test - 04 : 132,Verify >> About Us >> lowells-blog >> Online-Features >> Try out these features >> RegisterNow button,GETTEXT,btn_regnow,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 133,Verify >> About Us >> lowells-blog >> Online-Features >> Want to keep reading,GETCONTENT,,,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 134,Verify >> About Us >> lowells-blog >> Online-Features >> Want to keep reading >> Mythbusting >> Readmore Link,GETTEXT,lnk_readmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 135,Verify >> About Us >> lowells-blog >> Online-Features >> Want to keep reading >> LwlNews >> WelcomeToOurBlog Link,GETTEXT,lnk_lwlnewswelcometoblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 136,Open URL >> About Us >> lowells-blog >> Online-Features >> Online-Account-Features,NAVIGATE,,,about-us/lowells-blog/online-features/online-account-features/,Yes,Yes,NO RUN
+Smoke Test - 04 : 137,Verify >> About Us >> lowells-blog >> Online-Features >> Online-Account-Features >> Heading,GETCONTENT,,,How can I manage my Lowell account online,Yes,Yes,NO RUN
+Smoke Test - 04 : 138,Verify >> About Us >> lowells-blog >> Online-Features >> Online-Account-Features >> Description >> OnlineTools link,GETTEXT,lnk_onlintools,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 139,Verify >> About Us >> lowells-blog >> Online-Features >>  Online-Account-Features >> Creating An Account,GETCONTENT,,,Creating an account,Yes,Yes,NO RUN
+Smoke Test - 04 : 140,Verify >> About Us >> lowells-blog >> Online-Features >>  Online-Account-Features >> Reg Lwll Acc Online link,GETTEXT,lnk_reglwllacconline,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 141,Verify >> About Us >> lowells-blog >> Online-Features >>  Online-Account-Features >> Create Acc video,GETTEXT,btn_createaccvideo,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 142,Verify >> About Us >> lowells-blog >> Online-Features >>  Online-Account-Features >> View Acc Details video,GETTEXT,btn_viewaccdtlsvideo,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 143,Verify >> About Us >> lowells-blog >> Online-Features >>  Online-Account-Features >> Workout Your Budget video,GETTEXT,btn_wrkoutyourbgtvideo,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 144,Verify >> About Us >> lowells-blog >> Online-Features >>  Online-Account-Features >> Set a Plan video,GETTEXT,btn_setaplanvideo,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 145,Verify >> About Us >> lowells-blog >> Online-Features >>  Online-Account-Features >> Make a Quick Payment video,GETTEXT,btn_mkaqkpaymntvideo,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 146,Verify >> About Us >> lowells-blog >> Online-Features >> Try out these features >> RegisterNow button,GETTEXT,btn_regnow,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 147,Open URL >> About Us >> lowells-blog >> FinancialHealth,NAVIGATE,,,about-us/lowells-blog/financial-health/,Yes,Yes,NO RUN
+Smoke Test - 04 : 148,Open URL >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score,NAVIGATE,,,about-us/lowells-blog/financial-health/improve-your-credit-score/,Yes,Yes,NO RUN
+Smoke Test - 04 : 149,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >>Heading,GETCONTENT,,,How to improve your credit score,Yes,Yes,NO RUN
+Smoke Test - 04 : 150,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >>Sub-Heading,GETCONTENT,,,Credit files and credit scores can get confusing,Yes,Yes,NO RUN
+Smoke Test - 04 : 151,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Sub-heading2,GETCONTENT,,,What is a credit score,Yes,Yes,NO RUN
+Smoke Test - 04 : 152,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >>CreditFile link,GETTEXT,lnk_creditfile,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 153,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> How can I check CreditScore,GETCONTENT,,,How can I check my credit score,Yes,Yes,NO RUN
+Smoke Test - 04 : 154,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Experian link,GETTEXT,lnk_thisonefrmexperian,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 155,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> What is CreditScore,GETCONTENT,,,What is a good credit score,Yes,Yes,NO RUN
+Smoke Test - 04 : 156,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Why  CreditScore low,GETCONTENT,,,Why is my credit score low,Yes,Yes,NO RUN
+Smoke Test - 04 : 157,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >>Online payment link,GETTEXT,lnk_onlinepay,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 158,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Calling us link,GETTEXT,lnk_callingus,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 159,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Register to vote ,GETCONTENT,,,Register to vote,Yes,Yes,NO RUN
+Smoke Test - 04 : 160,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Stability Indicators,GETCONTENT,,,Stability Indicators,Yes,Yes,NO RUN
+Smoke Test - 04 : 161,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Correct mistakes in your credit file,GETCONTENT,,,Correct mistakes in your credit file,Yes,Yes,NO RUN
+Smoke Test - 04 : 162,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Reduce level of debt ,GETCONTENT,,,Reduce level of debt,Yes,Yes,NO RUN
+Smoke Test - 04 : 163,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Avoid missing payments,GETCONTENT,,,Avoid missing payments,Yes,Yes,NO RUN
+Smoke Test - 04 : 164,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> SpeakToLwll link,GETTEXT,lnk_spktolwll,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 165,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> ,GETCONTENT,,,What credit score do I need for a mortgage,Yes,Yes,NO RUN
+Smoke Test - 04 : 166,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> ,GETCONTENT,,,Can I get a mortgage if,Yes,Yes,NO RUN
+Smoke Test - 04 : 167,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> GetInTouch link,GETTEXT,lnk_getintch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 168,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >>On aPaymnetPlan link,GETTEXT,lnk_onapaymentplan,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 169,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >>The LowellBlog link,GETTEXT,lnk_thelwllblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 170,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> mythbust_learnmore link ,GETTEXT,lnk_mythbust_learnmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 171,Verify >> About Us >> lowells-blog >> FinancialHealth >> improve-your-credit-score >> Readmore link,GETTEXT,lnk_readmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 172,Open URL >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about,NAVIGATE,,,about-us/lowells-blog/financial-health/what-brits-would-rather-talk-about/,Yes,Yes,NO RUN
+Smoke Test - 04 : 173,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> Heading,GETCONTENT,,,Brits would rather talk about sex than debt,Yes,Yes,NO RUN
+Smoke Test - 04 : 174,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> Sub-Heading,GETCONTENT,,,Our new survey proves that,Yes,Yes,NO RUN
+Smoke Test - 04 : 175,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> FreeandIndependent advice link,GETTEXT,lnk_freeandindadvice,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 176,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> Opening up about debt,GETCONTENT,,,Opening up about debt ,Yes,Yes,NO RUN
+Smoke Test - 04 : 177,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> WorkingWithUs link,GETTEXT,lnk_workingwithus,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 178,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> the LowellBlog link,GETTEXT,lnk_thelwllblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 179,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> LwllnewsReadmore link,GETTEXT,lnk_articlecard_readmore1,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 180,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> Mythbusting Readmore link,GETTEXT,lnk_articlecard_readmore2,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 181,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> Keep Learning,GETCONTENT,,,Keep learning,Yes,Yes,NO RUN
+Smoke Test - 04 : 182,Verify >> About Us >> lowells-blog >> FinancialHealth >> what-brits-would-rather-talk-about >> Keep Learning >> Learnmore button,GETTEXT,btn_learnmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 183,Open URL >> About Us >> lowells-blog >> FinancialHealth >> struggling-to-afford-january-2021,NAVIGATE,,,about-us/lowells-blog/financial-health/struggling-to-afford-january-2021/,Yes,Yes,NO RUN
+Smoke Test - 04 : 184,Verify >> About Us >> lowells-blog >> FinancialHealth >> Heading,GETCONTENT,,,January Blues,Yes,Yes,NO RUN
+Smoke Test - 04 : 185,Verify >> About Us >> lowells-blog >> FinancialHealth >> Desc,GETCONTENT,,,January may be even more difficult than usual,Yes,Yes,NO RUN
+Smoke Test - 04 : 186,Verify >> About Us >> lowells-blog >> FinancialHealth >> Why this January might,GETCONTENT,,,Why this January might,Yes,Yes,NO RUN
+Smoke Test - 04 : 187,Verify >> About Us >> lowells-blog >> FinancialHealth >> financial pressure Christmas 2020,GETTEXT,lnk_finpressureforChrisms2020,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 188,Verify >> About Us >> lowells-blog >> FinancialHealth >> GetinTouch link,GETTEXT,lnk_getintch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 189,Verify >> About Us >> lowells-blog >> FinancialHealth >> How UK households are,GETCONTENT,,,How UK households are,Yes,Yes,NO RUN
+Smoke Test - 04 : 190,Verify >> About Us >> lowells-blog >> FinancialHealth >> Coronavirus Support Page link,GETTEXT,lnk_coronvsupportpage,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 191,Verify >> About Us >> lowells-blog >> FinancialHealth >> The date you might feels strain,GETCONTENT,,,The date you might,Yes,Yes,NO RUN
+Smoke Test - 04 : 192,Verify >> About Us >> lowells-blog >> FinancialHealth >> The date you might feels strain >> Guide to your next steps link,GETTEXT,lnk_guidetonextsteps,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 193,Verify >> About Us >> lowells-blog >> FinancialHealth >> Want to keep reading,GETCONTENT,,,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 194,Verify >> About Us >> lowells-blog >> FinancialHealth >> WellBeing Readmore link,GETTEXT,lnk_articlecard_readmore1,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 195,Verify >> About Us >> lowells-blog >> FinancialHealth >> LowellNews Readmore link,GETTEXT,lnk_articlecard_readmore2,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 196,Verify >> About Us >> lowells-blog >> FinancialHealth >> Christmas pressure survey link,GETTEXT,lnk_christmaspress,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 197,Open URL >> About Us >> lowells-blog >> FinancialHealth >> hidden-debt-why-we-don-t-talk-about-our-debt-problems,NAVIGATE,,,about-us/lowells-blog/financial-health/hidden-debt-why-we-don-t-talk-about-our-debt-problems/,Yes,Yes,NO RUN
+Smoke Test - 04 : 198,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Heading,CLICK,txt_heading,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 199,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Why we don't talk about,GETCONTENT,,,Why we,Yes,Yes,NO RUN
+Smoke Test - 04 : 200,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Why we don't talk about >>Debt advice support option link,GETTEXT,lnk_inddebtadviceandsupport,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 201,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Younger generations,GETCONTENT,,,Younger generations are more,Yes,Yes,NO RUN
+Smoke Test - 04 : 202,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >>  Younger generations >> Money and Pension service link,GETTEXT,lnk_moneyandpensionserv,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 203,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Younger generations >> Mental Health link,GETTEXT,lnk_mentalhealthprob,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 204,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Younger generations >> Our own research link,GETTEXT,lnk_ourownresearch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 205,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> How talking about debt can help,GETCONTENT,,,How talking about debt,Yes,Yes,NO RUN
+Smoke Test - 04 : 206,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> How talking about debt can help >> Samaritans link,GETTEXT,lnk_samaritans,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 207,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> How talking about debt can help >> Mind link,GETTEXT,lnk_mind,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 208,Verify >> About Us >> lowells-blog >> FinancialHealth >>  hidden-debt-why-we-don-t-talk-about-our-debt-problems >> How talking about debt can help >> StepChange link,GETTEXT,lnk_stepchange,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 209,Verify >> About Us >> lowells-blog >> FinancialHealth >> hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Working with Lowell can ,GETCONTENT,,,Working with Lowell,Yes,Yes,NO RUN
+Smoke Test - 04 : 210,Verify >> About Us >> lowells-blog >> FinancialHealth >> hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Working with Lowell can >> LowellBlog link,GETTEXT,lnk_thelwllblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 211,Verify >> About Us >> lowells-blog >> FinancialHealth >> hidden-debt-why-we-don-t-talk-about-our-debt-problems >> Working with Lowell can >> Brits hide debt link,GETTEXT,lnk_britshidedebt,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 212,Open URL >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child,NAVIGATE,,,about-us/lowells-blog/financial-health/the-financial-tips-we-wish-we-d-learnt-as-a-child/,Yes,Yes,NO RUN
+Smoke Test - 04 : 213,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Heading,CLICK,txt_financialtips,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 214,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Sub-Heading,GETCONTENT,,,We look at budgeting tips that we wish,Yes,Yes,NO RUN
+Smoke Test - 04 : 215,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> How debt can affect your credit score,GETCONTENT,,,How debt can affect your,Yes,Yes,NO RUN
+Smoke Test - 04 : 216,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> How debt can affect your credit score >> CreditScore link,GETTEXT,lnk_creditscore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 217,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> How debt can affect your credit score >> how creditscore affects you link,GETTEXT,lnk_guidehowcredscoreaff,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 218,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> How interest works,GETCONTENT,,,How interest works,Yes,Yes,NO RUN
+Smoke Test - 04 : 219,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> How to shop around for the best deals ,GETCONTENT,,,How to shop,Yes,Yes,NO RUN
+Smoke Test - 04 : 220,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Everyone worries about money ,GETCONTENT,,,,Yes,Yes,NO RUN
+Smoke Test - 04 : 221,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Everyone worries about money >> Orgzs who offer independent advice and support link,GETTEXT,lnk_indadviceandsupport,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 222,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Help is available,GETCONTENT,,,,Yes,Yes,NO RUN
+Smoke Test - 04 : 223,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Help is available >> Our guide to debt support link,GETTEXT,lnk_guidetodebtsupport,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 224,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> How to help your child,GETCONTENT,,,How to help your child,Yes,Yes,NO RUN
+Smoke Test - 04 : 225,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Use small examples to demonstrate budgeting,GETCONTENT,,,Use small examples,Yes,Yes,NO RUN
+Smoke Test - 04 : 226,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Consider how to show the value of money in 'real life' ,GETCONTENT,,,Consider how to show,Yes,Yes,NO RUN
+Smoke Test - 04 : 227,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Discuss needs and wants,GETCONTENT,,,,Yes,Yes,NO RUN
+Smoke Test - 04 : 228,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Discuss needs and wants >> Lowell Blog link,GETCONTENT,,,,Yes,Yes,NO RUN
+Smoke Test - 04 : 229,Verify >> About Us >> lowells-blog >> FinancialHealth >> the-financial-tips-we-wish-we-d-learnt-as-a-child >> Discuss needs and wants >> Range of debt guides link,GETTEXT,lnk_rangeofdebtguides,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 230,Open URL >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem,NAVIGATE,,,about-us/lowells-blog/financial-health/does-the-uk-have-a-financial-confidence-problem/,Yes,Yes,NO RUN
+Smoke Test - 04 : 231,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> Heading,GETCONTENT,,,Does the UK have a financial,Yes,Yes,NO RUN
+Smoke Test - 04 : 232,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> Heading >> Desc,GETCONTENT,,,confident about their finances,Yes,Yes,NO RUN
+Smoke Test - 04 : 233,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> The financial terms that are most likely to confuse people,GETCONTENT,,,The financial terms,Yes,Yes,NO RUN
+Smoke Test - 04 : 234,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> The financial terms that are most likely to confuse people >> Credit score myths link,GETTEXT,lnk_creditscoremyths,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 235,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> The financial terms that are most likely to confuse people >> How to improve credit score link ,GETTEXT,lnk_howtoimprovecreditscore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 236,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> The financial terms that are most likely to confuse people >> CCJ guide link,GETTEXT,lnk_ccjguide,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 237,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> Being taught about finances,GETCONTENT,,,Being taught about finances,Yes,Yes,NO RUN
+Smoke Test - 04 : 238,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> The places people get financial advice from instead,GETCONTENT,,,The places people,Yes,Yes,NO RUN
+Smoke Test - 04 : 239,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> The places people get financial advice from instead >> The Lowell debt hub link,GETTEXT,lnk_thelwlldebthub,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 240,Verify >> About Us >> lowells-blog >> FinancialHealth >> does-the-uk-have-a-financial-confidence-problem >> The places people get financial advice from instead >> The Lowell Blog link,GETTEXT,lnk_thelwllblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 241,Open URL >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud,NAVIGATE,,,about-us/lowells-blog/financial-health/how-many-brits-fall-victim-to-card-fraud/,Yes,Yes,NO RUN
+Smoke Test - 04 : 242,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> Heading,GETCONTENT,,,How many Brits fall,Yes,Yes,NO RUN
+Smoke Test - 04 : 243,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> Desc,GETCONTENT,,,New research commissioned by Lowell,Yes,Yes,NO RUN
+Smoke Test - 04 : 244,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> The ways fraudsters target their victims,GETCONTENT,,,The ways fraudsters,Yes,Yes,NO RUN
+Smoke Test - 04 : 245,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> Common types of fraudulent activity,GETCONTENT,,,types of fraudulent,Yes,Yes,NO RUN
+Smoke Test - 04 : 246,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> The cities with the most fraud,GETCONTENT,,,most fraud,Yes,Yes,NO RUN
+Smoke Test - 04 : 247,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> How to stop fraud,GETCONTENT,,,stop fraud,Yes,Yes,NO RUN
+Smoke Test - 04 : 248,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> How to stop fraud >> anti-fraud guide link,GETTEXT,lnk_anti-fraudguide,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 249,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> How to stop fraud >> Always be cautious,GETCONTENT,,,Fraudsters might have done research on you,Yes,Yes,NO RUN
+Smoke Test - 04 : 250,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> How to stop fraud >> Don't enter any credit card details,GETCONTENT,,,click a link or enter any of your card details without checking first,Yes,Yes,NO RUN
+Smoke Test - 04 : 251,Verify >> About Us >> lowells-blog >> FinancialHealth >> how-many-brits-fall-victim-to-card-fraud >> How to stop fraud >> The Lowell Blog link,GETTEXT,lnk_thelwllblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 252,Open URL >> About Us >> lowells-blog >> lifestyle,NAVIGATE,,,about-us/lowells-blog/lifestyle/,Yes,Yes,NO RUN
+Smoke Test - 04 : 253,Open URL >> About Us >> lowells-blog >> lifestyle >> christmas-pressure,NAVIGATE,,,about-us/lowells-blog/lifestyle/christmas-pressure/,Yes,Yes,NO RUN
+Smoke Test - 04 : 254,Verify >> About Us >> lowells-blog >> lifestyle >> christmas-pressure >> Heading,GETCONTENT,,,financial pressure for Christmas 2020,Yes,Yes,NO RUN
+Smoke Test - 04 : 255,Verify >> About Us >> lowells-blog >> lifestyle >> christmas-pressure >> Heading >> Give us a call link,GETTEXT,lnk_giveusacall,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 256,Verify >> About Us >> lowells-blog >> lifestyle >> christmas-pressure >> Heading >> Our independent support page link ,GETTEXT,lnk_freeindsupport,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 257,Verify >> About Us >> lowells-blog >> lifestyle >> christmas-pressure >> Heading >> The Lowell Blog link ,GETTEXT,lnk_thelwllblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 258,Verify >> About Us >> lowells-blog >> lifestyle >> christmas-pressure >> Want tp Keep Reading,GETCONTENT,,,,Yes,Yes,NO RUN
+Smoke Test - 04 : 259,Verify >> About Us >> lowells-blog >> lifestyle >> christmas-pressure >> Want tp Keep Reading >> Financial Health Readmore link,GETTEXT,lnk_articlecard_readmore1,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 260,Verify >> About Us >> lowells-blog >> lifestyle >> christmas-pressure >> Want tp Keep Reading >>Lowell News Readmore link,GETTEXT,lnk_articlecard_readmore2,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 261,Open URL >> About Us >> lowells-blog >> saving-and-budgeting,NAVIGATE,,,about-us/lowells-blog/saving-and-budgeting/,Yes,Yes,NO RUN
+Smoke Test - 04 : 262,Open URL >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget,NAVIGATE,,,about-us/lowells-blog/saving-and-budgeting/calculations-for-2021-budget/,Yes,Yes,NO RUN
+Smoke Test - 04 : 263,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Heading,GETCONTENT,,,Calculations to consider for your,Yes,Yes,NO RUN
+Smoke Test - 04 : 264,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Energy Consumption,GETCONTENT,,,Energy consumption,Yes,Yes,NO RUN
+Smoke Test - 04 : 265,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Tax Releif,GETCONTENT,,,Tax relief,Yes,Yes,NO RUN
+Smoke Test - 04 : 266,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Heading,GETTEXT,lnk_claimtotaxrelief,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 267,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Commuting costs,GETCONTENT,,,Commuting costs,Yes,Yes,NO RUN
+Smoke Test - 04 : 268,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Commuting costs >> i-news estimates,GETTEXT,lnk_inewsestimates,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 269,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Food and Drink,GETCONTENT,,,Food and Drink,Yes,Yes,NO RUN
+Smoke Test - 04 : 270,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Salary,GETCONTENT,,,Salary,Yes,Yes,NO RUN
+Smoke Test - 04 : 271,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Salary >> Get in touch link,GETTEXT,lnk_getintch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 272,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Salary >> Guide to your next steps link,GETTEXT,lnk_guidetonextsteps,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 273,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Salary >> Independent support and advice link,GETTEXT,lnk_indsupportandadvice,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 274,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Payment holidays,GETCONTENT,,,Payment holidays,Yes,Yes,NO RUN
+Smoke Test - 04 : 275,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Payment holidays >> Letting us know link,GETTEXT,lnk_lettingusknow,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 276,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Housing costs,GETTEXT,txt_housingcosts,XPATH,Housing costs,Yes,Yes,NO RUN
+Smoke Test - 04 : 277,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Available independent organizations link,GETTEXT,lnk_availbleindorg,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 278,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Check out our help and support page link,GETTEXT,lnk_helpandsupportpage,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 279,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Want to keep reading,GETCONTENT,,,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 280,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Want to keep reading >> Financial Health Readmore link,GETTEXT,lnk_articlecard_readmore1,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 281,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Want to keep reading >> Lowell news Readmore link,GETTEXT,lnk_articlecard_readmore2,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 282,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Try our budget calculator,GETCONTENT,,,Try our budget calculator,Yes,Yes,NO RUN
+Smoke Test - 04 : 283,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Try our budget calculator >> Login button,GETTEXT,btn_tryourbudgcalclogin,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 284,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> calculations-for-2021-budget >> Try our budget calculator >> Learn more button,GETTEXT,btn_lrnmore,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 285,Open URL >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money,NAVIGATE,,,about-us/lowells-blog/saving-and-budgeting/how-to-create-a-budget-and-manage-your-money/,Yes,Yes,NO RUN
+Smoke Test - 04 : 286,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Heading,GETCONTENT,,,manage your money,Yes,Yes,NO RUN
+Smoke Test - 04 : 287,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >>Heading >> Desc,GETCONTENT,,,control of your finances and clear,Yes,Yes,NO RUN
+Smoke Test - 04 : 288,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >>Heading >> Desc >>Lowell Budget Calculator link,GETTEXT,lnk_thelwllbudgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 289,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >>How to Create a Budget,GETCONTENT,,,How to create a budget,Yes,Yes,NO RUN
+Smoke Test - 04 : 290,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Work out total incomings,GETCONTENT,,,Work out total incomings,Yes,Yes,NO RUN
+Smoke Test - 04 : 291,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Work out total incomings >> Lowell Budget Calculator link,GETTEXT,lnk_thelwllbudgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 292,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Work out your total outgoings,GETCONTENT,,,Work out your total outgoings,Yes,Yes,NO RUN
+Smoke Test - 04 : 293,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Work out your total outgoings >> Lowell Budget Calculator link,GETTEXT,lnk_thelwllbudgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 294,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Factor in annual costs,GETCONTENT,,,Factor in annual costs,Yes,Yes,NO RUN
+Smoke Test - 04 : 295,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Subtract your total outgoings from your total incomings,GETCONTENT,,,Subtract your total,Yes,Yes,NO RUN
+Smoke Test - 04 : 296,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Subtract your total outgoings from your total incomings >> Budget Calculator link,GETTEXT,lnk_thelwllbudgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 297,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Subtract your total outgoings from your total incomings >> Money Advice Service link,GETTEXT,lnk_moneyadviceservice,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 298,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Subtract your total outgoings from your total incomings >> Money Saving Expert link,GETTEXT,lnk_moneysavingexpert,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 299,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budget Templates,GETCONTENT,,,Budget Templates,Yes,Yes,NO RUN
+Smoke Test - 04 : 300,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budget Templates >> Budget Calculator link,GETTEXT,lnk_thelwllbudgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 301,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budget Templates >> Budget Calculator link,GETTEXT,lnk_thelwllbudgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 302,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budget Templates >> Basic budget template link,GETTEXT,lnk_basicbudgettemplate,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 303,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budget Templates >> Money Saving expert link,GETTEXT,lnk_moneysavingexpert,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 304,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budgeting Tips,GETCONTENT,,,Budgeting Tips,Yes,Yes,NO RUN
+Smoke Test - 04 : 305,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budgeting Tips >> Have a financial goal to work towards,GETCONTENT,,,Have a financial goal to work towards,Yes,Yes,NO RUN
+Smoke Test - 04 : 306,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budgeting Tips >> Don't remove everything that makes you happy,GETCONTENT,,,remove everything that makes you happy,Yes,Yes,NO RUN
+Smoke Test - 04 : 307,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budgeting Tips >> Don't feel bad if you struggle,GETCONTENT,,,feel bad if you struggle,Yes,Yes,NO RUN
+Smoke Test - 04 : 308,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budgeting Tips >> Don't feel bad if you struggle >> Budjet Calculator link,GETTEXT,lnk_thelwllbudgtcalc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 309,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budgeting Tips >> Don't feel bad if you struggle >> Debt guidance hub link,GETTEXT,lnk_debtguidance,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 310,Verify >> About Us >> lowells-blog >> saving-and-budgeting >> how-to-create-a-budget-and-manage-your-money >> Budgeting Tips >> Don't feel bad if you struggle >> Lowell Blog link,GETTEXT,lnk_thelwllblog,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 311,Open URL >> About Us >> lowells-blog >> wellbeing,NAVIGATE,,,about-us/lowells-blog/wellbeing/,Yes,Yes,NO RUN
+Smoke Test - 04 : 312,Open URL >> About Us >> lowells-blog >> wellbeing >> blue-Monday,NAVIGATE,,,about-us/lowells-blog/wellbeing/blue-monday/,Yes,Yes,NO RUN
+Smoke Test - 04 : 313,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Heading,CLICK,txt_wellbeingbluemon,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 314,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Heading >> Desc,GETCONTENT,,,has been around for a while,Yes,Yes,NO RUN
+Smoke Test - 04 : 315,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> What is Blue Monday heading,GETCONTENT,,,What is,Yes,Yes,NO RUN
+Smoke Test - 04 : 316,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Is Blue Monday real,CLICK,txt_isbluemonreal,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 317,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Is Blue Monday real >> Get in touch link,GETTEXT,lnk_getintch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 318,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Am I definitely going to feel sad on Blue Monday,GETCONTENT,,,Am I definitely,Yes,Yes,NO RUN
+Smoke Test - 04 : 319,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Am I definitely going to feel sad on Blue Monday >> Independent Charities and Organisations link,GETTEXT,lnk_indcharitandorgs,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 320,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> How can I improve my wellbeing on Blue Monday,GETCONTENT,,,How can I improve,Yes,Yes,NO RUN
+Smoke Test - 04 : 321,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> How can I improve my wellbeing on Blue Monday >> Get active and spend time outdoors,GETCONTENT,,,Get active,Yes,Yes,NO RUN
+Smoke Test - 04 : 322,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> How can I improve my wellbeing on Blue Monday >> Eat and drink the right things,GETCONTENT,,,drink the right things,Yes,Yes,NO RUN
+Smoke Test - 04 : 323,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> How can I improve my wellbeing on Blue Monday >> Eat and drink the right things >> Mind's website link,GETTEXT,lnk_mind,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 324,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> How can I improve my wellbeing on Blue Monday >> Speak to someone >> Samaritans link,GETTEXT,lnk_considrspktosamaritan,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 325,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> How can I improve my wellbeing on Blue Monday >> Get peace of mind with your debt,GETCONTENT,,,Get peace of mind,Yes,Yes,NO RUN
+Smoke Test - 04 : 326,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> How can I improve my wellbeing on Blue Monday >> Get peace of mind with your debt >> Get in Touch link,GETTEXT,lnk_getintch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 327,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >>How can Lowell help if I’m having a hard time in January,GETCONTENT,,,How can Lowell,Yes,Yes,NO RUN
+Smoke Test - 04 : 328,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >>How can Lowell help if I’m having a hard time in January >> Guide to debt support link,GETTEXT,lnk_guidetodebtsupport,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 329,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >>How can Lowell help if I’m having a hard time in January >> Our next steps link,GETTEXT,lnk_ournextsteps,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 330,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >>How can Lowell help if I’m having a hard time in January >> Check out help in uncertain times link,GETTEXT,lnk_helpinuncertaintimes,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 331,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >>How can Lowell help if I’m having a hard time in January >> Get in Touch link,GETTEXT,lnk_getintch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 332,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >>How can Lowell help if I’m having a hard time in January >> Frequesntly Asked Questions link,GETTEXT,lnk_faqs,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 333,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >>How can Lowell help if I’m having a hard time in January >> Debt Guidance hub link,GETTEXT,lnk_debtguidehub,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 334,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Want to Keep Reading,GETCONTENT,,,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 335,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Want to Keep Reading >> Lowell News Readmore link,GETTEXT,lnk_articlecard_readmore1,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 336,Verify >> About Us >> lowells-blog >> wellbeing >> blue-Monday >> Want to Keep Reading >> Saving and Budgeting Readmore link,GETTEXT,lnk_articlecard_readmore2,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 337,Open URL >> About Us >> lowells-blog >> wellbeing >> time-to-talk,NAVIGATE,,,about-us/lowells-blog/wellbeing/time-to-talk/,Yes,Yes,NO RUN
+Smoke Test - 04 : 338,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Heading,GETCONTENT,,,How to speak to a loved one,Yes,Yes,NO RUN
+Smoke Test - 04 : 339,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Heading >> Description,GETCONTENT,,,Mind is a mental health charity,Yes,Yes,NO RUN
+Smoke Test - 04 : 340,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> What is Time to Talk Day,GETCONTENT,,,What is Time to,Yes,Yes,NO RUN
+Smoke Test - 04 : 341,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> What is Time to Talk Day >> Time to Talk Dy website link,GETTEXT,lnk_timetochangetimetotalk,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 342,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Debt can impact mental health,GETCONTENT,,,Debt can impact,Yes,Yes,NO RUN
+Smoke Test - 04 : 343,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Debt can impact mental health >> Speak to us link,GETTEXT,lnk_speaktous,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 344,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Debt can impact mental health >> Independent support services link,GETTEXT,lnk_freeindsupport,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 345,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> How to speak to someone about debt,CLICK,txt_howtospeakto,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 346,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> How to speak to someone about debt >> Speaking to your partner >> Affect your partner's credit score link,GETTEXT,lnk_affectpartnercredsc,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 347,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> How to speak to someone about debt >> Speaking to your partner >> Guide to how to speak to partner about money link,GETTEXT,lnk_guidehowspeaktopartner,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 348,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> How to speak to someone about debt >> Speaking to your partner >> Independent charities and Orgs link,GETTEXT,lnk_listofindorgsandchars,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 349,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> How to speak to someone about debt >> Speaking to your partner >> Mind link,GETTEXT,lnk_mind,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 350,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> How to speak to someone about debt >> Speaking to your partner >> Samaritans link ,GETTEXT,lnk_samaritans,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 351,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> How to speak to someone about debt >> Speaking to friends and family,GETCONTENT,,,Speaking to friends,Yes,Yes,NO RUN
+Smoke Test - 04 : 352,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> How to speak to someone about debt >> Speaking to friends and family >> Ratehr talk about link ,GETTEXT,lnk_rathertalkabout,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 353,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Conversation Starters,CLICK,txt_conversationstarters,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 354,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Conversation Starters >> If you’re concerned about a friend or loved one,GETCONTENT,,,concerned about a friend,Yes,Yes,NO RUN
+Smoke Test - 04 : 355,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Conversation Starters >> If you’re having a hard time with debt or mental health,GETCONTENT,,,having a hard time with debt ,Yes,Yes,NO RUN
+Smoke Test - 04 : 356,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Conversation Starters >> If you’re having a hard time with debt or mental health >> Get in touch link,GETTEXT,lnk_getintch,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 357,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Conversation Starters >> If you’re having a hard time with debt or mental health >> Independent support link,GETTEXT,lnk_freeindsupport,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 358,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Conversation Starters >> If you’re having a hard time with debt or mental health >> Debt guidance link,GETTEXT,lnk_debtguidance,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 359,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Want to keep reading,GETCONTENT,,XPATH,Want to keep reading,Yes,Yes,NO RUN
+Smoke Test - 04 : 360,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Want to keep reading >> Financial Health >> 'January Blues' Readmore link,GETTEXT,lnk_articlecard_readmore1,XPATH,,Yes,Yes,NO RUN
+Smoke Test - 04 : 361,Verify >> About Us >> lowells-blog >> wellbeing >> time-to-talk >> Want to keep reading >> Financial Health >> 'Brits would rather talk'Readmore link,GETTEXT,lnk_articlecard_readmore2,XPATH,,Yes,Yes,NO RUN

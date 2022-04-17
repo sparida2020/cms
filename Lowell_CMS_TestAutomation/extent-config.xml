@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+    <!-- report theme -->
+    <!-- standard, dark -->
+    <theme>standard</theme>
+  
+    <!-- document encoding -->
+    <!-- defaults to UTF-8 -->
+    <encoding>UTF-8</encoding>
+    
+    <!-- protocol for script and stylesheets -->
+    <!-- defaults to https -->
+    <protocol>https</protocol>
+    
+    <!-- title of the document -->
+    <documentTitle>ExtentReports</documentTitle>
+    
+    <!-- report name - displayed at top-nav -->
+<!--     <reportName>Project: eFollett Automation report</reportName>  -->
+
+<reportName> Lowell: CMS: Automated Test Results :~ 
+		 <![CDATA[
+                <img src='logo.png' />
+            ]]>
+		</reportName>
+
+<!--     ${project.build.directory} -->
+
+<!-- <reportName> -->
+<!-- 	<image id="image-zoom"> -->
+<!-- 		 <img src='eFollettReports/windows_10_chrome_TestResults/logo.png' /> -->
+<!-- 	</image> -->
+<!-- </reportName> -->
+    
+   <!-- location of charts in the test view -->
+        <!-- top, bottom -->
+        <testViewChartLocation>bottom</testViewChartLocation>
+ 
+        <!-- custom javascript -->
+        <scripts>
+            <![CDATA[
+                $(document).ready(function() {
+                  });
+            ]]>
+        </scripts>
+        
+        <!-- custom styles -->
+        <styles>
+            <![CDATA[
+              .report-name { padding-left: 0px; } .report-name > img { float: right;height: 100%;margin-right: 2px;margin-top: 0px;width: auto; }  
+            ]]>
+        </styles>
+    </configuration>
+</extentreports>
